@@ -1,29 +1,87 @@
-- name: "주일 1부 예배"
-  day: "주일"
-  time: "09:00"
-  location: "본당"
-  language: "한국어"
+# 페낭한인교회 예배 및 정기 모임 시간표
 
-- name: "주일 2부 예배"
-  day: "주일"
-  time: "11:00"
-  location: "본당"
-  language: "한국어"
+# 주일 예배
+sunday_services:
+  - name: "주일예배"
+    day: "주일"
+    time: "11:00"
+    location: "본당"
+    language: "한국어"
+    is_main: true
 
-- name: "Youth Service"
-  day: "주일"
-  time: "11:00"
-  location: "별관"
-  language: "한국어/영어"
+  - name: "유치부"
+    day: "주일"
+    time: "11:00"
+    location: "교육관"
+    language: "한국어"
+    target: "유치부"
 
-- name: "수요 기도회"
-  day: "수요일"
-  time: "19:30"
-  location: "본당"
-  language: "한국어"
+  - name: "어린이부"
+    day: "주일"
+    time: "11:00"
+    location: "교육관"
+    language: "한국어"
+    target: "어린이"
 
-- name: "새벽 기도회"
-  day: "화-토"
-  time: "06:00"
-  location: "본당"
-  language: "한국어"
+  - name: "학생부"
+    day: "주일"
+    time: "09:00"
+    location: "교육관"
+    language: "한국어"
+    target: "학생"
+
+# 정기 모임
+regular_meetings:
+  - name: "아침 묵상 모임"
+    days: "화–금"
+    time: "08:00 - 08:30"
+    location: "교육관"
+    language: "한국어"
+
+  - name: "금요 찬양 기도회"
+    day: "금요일"
+    time: "20:00"
+    location: "본당"
+    language: "한국어"
+
+  - name: "속회 모임"
+    schedule: "정한 시기"
+    location: "정한 곳"
+    language: "한국어"
+
+  - name: "새가족 모임"
+    schedule: "정한 시기 (4주)"
+    time: "10:00"
+    location: "정한 곳"
+    language: "한국어"
+
+  - name: "여성경읽어지네"
+    schedule: "정한 시기"
+    time: "오전/오후"
+    location: "교육관"
+    language: "한국어"
+
+  - name: "일대일 제자 양육"
+    schedule: "정한 시기"
+    location: "정한 곳"
+    language: "한국어"
+
+  - name: "주일 남성 성경공부"
+    day: "주일"
+    time: "13:00"
+    location: "교육관"
+    language: "한국어"
+
+# 절기 예배
+special_services:
+  - name: "성탄절 예배"
+    date: "2024-12-25"
+    day: "목요일"
+    time: "11:00"
+    location: "본당"
+
+  - name: "신년감사예배"
+    date: "2026-01-01"
+    day: "목요일"
+    time: "11:00"
+    location: "본당"

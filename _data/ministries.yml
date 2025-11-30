@@ -1,0 +1,58 @@
+# 페낭한인교회 부서 및 속회 정보
+
+# 속회 정보
+cell_groups:
+  - name: "믿음 속회"
+    leader: "김혜옥"
+    meeting: "연합"
+    status: "방학"
+
+  - name: "소망 속회"
+    leader: "한유림"
+    meeting: "연합"
+    status: "방학"
+
+  - name: "사랑 속회"
+    leader: "김완정"
+    meeting: "연합"
+    status: "방학"
+
+# 주요 부서
+departments:
+  - name: "어린이부"
+    leader: "한유림 사모"
+    location: "교육관"
+    time: "주일 11:00"
+
+  - name: "학생부"
+    leader: "이춘원 목사"
+    location: "교육관"
+    time: "주일 09:00"
+
+  - name: "유치부"
+    location: "교육관"
+    time: "주일 11:00"
+
+# 봉사 부서
+service_teams:
+  - name: "남선교회"
+    description: "남성 성도들의 교제와 봉사"
+
+  - name: "찬양팀"
+    leader: "전세계로 간사"
+    description: "예배 찬양 인도"
+
+# 성찬 및 식사 섬김
+hospitality:
+  communion_meal_prep:
+    - name: "민현수"
+      position: "장로"
+    - name: "임미경"
+      position: "권사"
+
+  meal_coordinator:
+    name: "민현수"
+    position: "장로"
+    note: "간식/식사 섬김 간사"
+
+  volunteer_info: "예배 후 간식 및 식사 섬김을 원하는 성도는 교회 게시판에 이름을 작성해 주시기 바랍니다."

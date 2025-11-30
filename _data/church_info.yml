@@ -1,0 +1,77 @@
+# 페낭한인교회 기본 정보
+
+basic:
+  name_korean: "페낭한인교회"
+  name_english: "Penang Korean Church"
+  established: 1994
+  since_text: "Since 1994"
+  website: "www.pkc1994.modoo.at"
+
+# 주소 정보
+address:
+  full: "598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia"
+  street: "598-01-02, Menara Asas, Tanjung Bungah"
+  city: "Penang"
+  postal_code: "11200"
+  country: "Malaysia"
+
+# 연락처 정보
+contact:
+  telephone: "+60-4-299-7935"
+  mobile: "+60-17-510-3771"
+  email: "penangkc1994@naver.com"
+
+# 담임목사
+pastor:
+  name: "이춘원"
+  title: "담임목사"
+
+# 온라인 헌금 계좌
+donation_account:
+  bank: "MAYBANK"
+  account_number: "5071 6167 5233"
+  account_holder: "Jang Jong Hun"
+  holder_position: "재정부장"
+
+# 헌금 코드
+donation_codes:
+  - code: "A"
+    name: "십일조"
+  - code: "B"
+    name: "감사헌금"
+  - code: "C"
+    name: "주일헌금"
+  - code: "D"
+    name: "선교헌금"
+  - code: "E"
+    name: "건축헌금"
+  - code: "F"
+    name: "절기헌금"
+  - code: "G"
+    name: "특별/목적헌금"
+  - code: "H"
+    name: "주일간식헌금"
+  - code: "I"
+    name: "부흥회"
+
+# 협력기관
+partners:
+  - "페낭토요한국학교"
+  - "페낭우리도서관"
+
+# 선교후원
+mission_support:
+  - organization: "생명나무"
+    description: ""
+  - organization: "구약 성경 번역"
+    missionary: "박지원"
+    note: "여선교"
+
+# 315 캠페인
+campaign_315:
+  name: "315 캠페인"
+  description: "매일 성경묵상 15분, 성경읽기 15분, 개인기도 15분을 내 삶의 최우선 순위로 세우는 페낭한인교회의 신앙 캠페인입니다."
+  components:
+    - "성경묵상 15분"
+    - "성경읽기 15분"
+    - "개인기도 15분"

@@ -1,8 +1,10 @@
 # Site settings
-title: "페낭 한인 교회"
-description: "말레이시아 페낭에서 함께 예배하는 한인 교회입니다"
+title: "페낭한인교회 (Penang Korean Church)"
+description: "말레이시아 페낭에서 함께 예배하는 한인 교회입니다 - Since 1994"
 url: "https://yourusername.github.io"
 baseurl: ""
+established: 1994
+pastor: "이춘원 목사"
 
 # Build settings
 markdown: kramdown

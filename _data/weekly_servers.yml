@@ -1,0 +1,39 @@
+# 페낭한인교회 예배 섬김이 명단
+
+# 예배 섬김이 (주별)
+servers:
+  - date: "2024-11-30"
+    representative_prayer: "김완정"
+    usher: "김혜옥"
+    offering: "이선주"
+    serving_department: "남선교회"
+
+  - date: "2024-12-07"
+    representative_prayer: "교독문"
+    usher: "김혜옥"
+    offering: "원경희"
+    serving_department: "남선교회"
+
+  - date: "2024-12-14"
+    representative_prayer: "김혜옥"
+    usher: "김혜옥"
+    offering: "원경희"
+    serving_department: "남선교회"
+
+# 섬김 역할 설명
+service_roles:
+  - role: "대표기도"
+    description: "예배 중 대표로 기도를 인도합니다"
+    english: "Representative Prayer"
+
+  - role: "안내위원"
+    description: "예배 참석자를 안내하고 환영합니다"
+    english: "Usher"
+
+  - role: "헌금위원"
+    description: "헌금을 받고 관리합니다"
+    english: "Offering"
+
+  - role: "봉사부서"
+    description: "당일 예배 후 식사 및 정리를 담당합니다"
+    english: "Serving Department"
