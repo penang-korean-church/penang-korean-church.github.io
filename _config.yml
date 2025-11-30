@@ -1,0 +1,40 @@
+# Site settings
+title: "페낭 한인 교회"
+description: "말레이시아 페낭에서 함께 예배하는 한인 교회입니다"
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+
+# Collections
+collections:
+  sermons:
+    output: true
+    permalink: /sermons/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "sermons"
+    values:
+      layout: "sermon"
+  - scope:
+      path: "pages"
+    values:
+      layout: "page"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md

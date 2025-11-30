@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="container sermon-container">
+  <article class="sermon">
+    <header class="sermon-header">
+      <h1 class="sermon-title">{{ page.title }}</h1>
+
+      <div class="sermon-meta">
+        <div class="sermon-meta-item">
+          <strong>날짜:</strong> {{ page.date | date: "%Y년 %m월 %d일" }}
+        </div>
+        {% if page.preacher %}
+        <div class="sermon-meta-item">
+          <strong>설교자:</strong> {{ page.preacher }}
+        </div>
+        {% endif %}
+        {% if page.bible_text %}
+        <div class="sermon-meta-item">
+          <strong>본문:</strong> {{ page.bible_text }}
+        </div>
+        {% endif %}
+      </div>
+
+      {% if page.summary %}
+      <p class="sermon-summary">{{ page.summary }}</p>
+      {% endif %}
+    </header>
+
+    {% if page.youtube_url %}
+    <div class="sermon-video">
+      <div class="video-wrapper">
+        <iframe
+          src="{{ page.youtube_url }}"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="sermon-content">
+      {{ content }}
+    </div>
+  </article>
+
+  <div class="sermon-navigation">
+    <a href="{{ '/sermons/' | relative_url }}" class="btn btn-ghost">← 설교 목록으로</a>
+  </div>
+</div>
