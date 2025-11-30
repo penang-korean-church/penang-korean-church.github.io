@@ -4,7 +4,30 @@ description: "말레이시아 페낭에서 함께 예배하는 한인 교회입�
 url: "https://yourusername.github.io"
 baseurl: ""
 established: 1994
-pastor: "이춘원 목사"
+pastor: "이충원 목사"
+
+# SEO settings
+author: "페낭한인교회"
+keywords: "페낭한인교회, Penang Korean Church, 말레이시아 한인교회, 페낭 교회, 한인 예배, 주일예배, 페낭 한인, 말레이시아 교회, 해외 한인교회"
+locale: "ko_KR"
+lang: "ko"
+
+# Church information
+church:
+  name: "페낭한인교회"
+  name_en: "Penang Korean Church"
+  address: "598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia"
+  phone: "+60-4-299-7935"
+  mobile: "+60-17-510-3771"
+  email: "penangkc1994@naver.com"
+  latitude: "5.4601"
+  longitude: "100.2834"
+
+# Social media
+social:
+  facebook: ""
+  instagram: ""
+  youtube: ""
 
 # Build settings
 markdown: kramdown
