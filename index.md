@@ -11,8 +11,8 @@ layout: default
       우리는 복음 안에서 하나 되어 하나님을 예배하고, 서로 사랑하며, 이 땅을 섬기는 공동체입니다.
     </p>
     <div class="hero-actions">
-      <a href="{{ '/pages/services.html' | relative_url }}" class="btn btn-primary">예배 시간 보기</a>
-      <a href="{{ '/pages/location.html' | relative_url }}" class="btn btn-ghost">찾아오시는 길</a>
+      <a href="{{ '/pages/services/' | relative_url }}" class="btn btn-primary">예배 시간 보기</a>
+      <a href="{{ '/pages/location/' | relative_url }}" class="btn btn-ghost">찾아오시는 길</a>
     </div>
   </section>
 
@@ -49,39 +49,4 @@ layout: default
     </div>
   </section>
 
-  <!-- Latest Sermon Section -->
-  <section class="section">
-    <header class="section-header">
-      <h2 class="section-title">최근 설교</h2>
-      <p class="section-subtitle">가장 최근 설교 말씀입니다</p>
-    </header>
-
-    {% assign latest_sermon = site.sermons | sort: "date" | last %}
-    {% if latest_sermon %}
-    <div class="card-grid">
-      <article class="card" style="grid-column: 1 / -1; max-width: 700px; margin: 0 auto;">
-        <div class="card-meta">
-          <span>{{ latest_sermon.date | date: "%Y년 %m월 %d일" }}</span>
-          {% if latest_sermon.preacher %}
-          <span>설교자: {{ latest_sermon.preacher }}</span>
-          {% endif %}
-        </div>
-        <h3 class="card-title">
-          <a href="{{ latest_sermon.url | relative_url }}">{{ latest_sermon.title }}</a>
-        </h3>
-        {% if latest_sermon.bible_text %}
-        <p class="card-meta">본문: {{ latest_sermon.bible_text }}</p>
-        {% endif %}
-        {% if latest_sermon.summary %}
-        <p class="card-summary">{{ latest_sermon.summary }}</p>
-        {% endif %}
-        <a href="{{ latest_sermon.url | relative_url }}" class="card-link">설교 보기 →</a>
-      </article>
-    </div>
-    {% endif %}
-
-    <div class="text-center mt-lg">
-      <a href="{{ '/sermons/' | relative_url }}" class="btn btn-ghost">모든 설교 보기</a>
-    </div>
-  </section>
 </div>

@@ -10,12 +10,6 @@ pastor: "이춘원 목사"
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
 
-# Collections
-collections:
-  sermons:
-    output: true
-    permalink: /sermons/:name/
-
 # Defaults
 defaults:
   - scope:
@@ -23,11 +17,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  - scope:
-      path: ""
-      type: "sermons"
-    values:
-      layout: "sermon"
   - scope:
       path: "pages"
     values:

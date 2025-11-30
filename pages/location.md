@@ -24,7 +24,11 @@ Penang, Malaysia
 
 <div class="map-container">
   <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.234!2d100.28!3d5.46!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNcKwMjcnMzYuMCJOIDEwMMKwMTYnNDguMCJF!5e0!3m2!1sen!2smy!4v1234567890!5m2!1sen!2smy"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.543!2d100.2834!3d5.4601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac38f4b5c3d9d%3A0x5e8f9c0e5d5c5d5c!2sMenara%20Asas%2C%20Tanjung%20Bungah%2C%20Penang!5e0!3m2!1sen!2smy!4v1234567890!5m2!1sen!2smy"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
@@ -56,16 +60,6 @@ Penang, Malaysia
 - 목적지: "Menara Asas, Tanjung Bungah" 또는 주소 입력
 - 조지타운 중심부에서 약 RM 20-30
 
-## 주차 안내
-
-건물 내부에 주차 공간이 마련되어 있습니다.
-
-- **주차 가능**: 건물 주차장 이용 가능
-- **주차 요금**: 건물 규정에 따름
-- **주차장 이용**: 예배 시간 전후 이용 가능
-
-주일 예배 시간에는 주차 공간이 부족할 수 있으니, 가급적 일찍 도착하시거나 대중교통 이용을 권장드립니다.
-
 ## 주변 랜드마크
 
 교회를 찾으실 때 참고하실 수 있는 주요 랜드마크:
@@ -81,12 +75,6 @@ Penang, Malaysia
 - **예배 시간**: 매주 주일 오전 11시
 - **문의 사항**: 언제든지 봉사자에게 편하게 질문해 주세요
 - **주차 안내**: 필요하신 경우 안내를 받으실 수 있습니다
-
-교회를 찾는 데 어려움이 있으시면 언제든지 전화 주시기 바랍니다.
-
-**연락처**:
-- 전화: +60-4-299-7935
-- 휴대전화: +60-17-510-3771
 
 ---
 
