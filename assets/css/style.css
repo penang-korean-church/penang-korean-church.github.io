@@ -519,9 +519,51 @@ img {
 }
 
 /* ==========================================================================
-   Services Table
+   Tables (General & Services)
    ========================================================================== */
 
+/* General Table Styles for Markdown tables */
+.page-content table,
+.post-content table {
+  width: 100%;
+  background-color: var(--color-surface);
+  border-radius: var(--radius-medium);
+  box-shadow: var(--shadow-soft);
+  overflow: hidden;
+  margin: var(--space-lg) 0;
+  border-collapse: collapse;
+}
+
+.page-content th,
+.post-content th {
+  background-color: var(--color-primary-soft);
+  color: var(--color-primary);
+  padding: var(--space-sm);
+  text-align: left;
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-bottom: 2px solid var(--color-primary);
+}
+
+.page-content td,
+.post-content td {
+  padding: var(--space-sm);
+  border-bottom: 1px solid var(--color-border);
+  font-size: 0.95rem;
+}
+
+.page-content tr:last-child td,
+.post-content tr:last-child td {
+  border-bottom: none;
+}
+
+.page-content tbody tr:hover,
+.post-content tbody tr:hover {
+  background-color: var(--color-background);
+  transition: background-color 0.2s ease;
+}
+
+/* Services Table (legacy class) */
 .services-table {
   width: 100%;
   background-color: var(--color-surface);
@@ -539,14 +581,14 @@ img {
 .services-table th {
   background-color: var(--color-primary-soft);
   color: var(--color-primary);
-  padding: var(--space-md);
+  padding: var(--space-sm);
   text-align: left;
   font-weight: 700;
   font-size: 0.95rem;
 }
 
 .services-table td {
-  padding: var(--space-md);
+  padding: var(--space-sm);
   border-bottom: 1px solid var(--color-border);
   font-size: 0.95rem;
 }
@@ -557,6 +599,24 @@ img {
 
 .services-table tr:hover {
   background-color: var(--color-background);
+}
+
+/* Mobile responsive tables */
+@media (max-width: 767px) {
+  .page-content table,
+  .post-content table,
+  .services-table table {
+    font-size: 0.85rem;
+  }
+
+  .page-content th,
+  .page-content td,
+  .post-content th,
+  .post-content td,
+  .services-table th,
+  .services-table td {
+    padding: var(--space-sm);
+  }
 }
 
 /* ==========================================================================
