@@ -2,20 +2,18 @@
 
 # 12월 행사
 december_2025:
-  - name: "2026년 1차 임시운영위원회"
+  - name: "미리 크리스마스"
     date: "2025-12-07"
     day: "주일"
-    time: "13:00"
     location: "본당"
-    note: "식사 교제 후"
-    type: "meeting"
+    type: "event"
 
-  - name: "2026년 교회 총회"
+  - name: "2025년 당회"
     date: "2025-12-14"
     day: "주일"
     time: "13:00"
     location: "본당"
-    note: "식사 교제 후"
+    note: "식사 교제 후, 세례교인으로 모든 성도"
     type: "meeting"
 
   - name: "성탄절 예배"
@@ -25,11 +23,11 @@ december_2025:
     location: "본당"
     type: "special_service"
 
-# 2027년 1월 행사
-january_2027:
+# 2026년 1월 행사
+january_2026:
   - name: "신년감사예배"
-    date: "2027-01-01"
-    day: "금요일"
+    date: "2026-01-01"
+    day: "목요일"
     time: "11:00"
     location: "본당"
     type: "special_service"
@@ -44,8 +42,8 @@ regular_events:
 
 # 기도 제목
 prayer_requests:
-  - title: "2027년 목회 계획"
-    description: "2027년 목회 계획이 잘 세워지도록"
+  - title: "2026년 목회 계획"
+    description: "2026년 목회 계획이 잘 세워지도록"
     category: "church"
 
 # 대강절 시리즈 (설교 주제)

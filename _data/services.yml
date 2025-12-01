@@ -81,7 +81,7 @@ special_services:
     location: "본당"
 
   - name: "신년감사예배"
-    date: "2027-01-01"
-    day: "금요일"
+    date: "2026-01-01"
+    day: "목요일"
     time: "11:00"
     location: "본당"
