@@ -696,6 +696,22 @@ img {
   margin-bottom: var(--space-md);
 }
 
+.footer-address a {
+  color: var(--color-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.footer-address a:hover {
+  color: var(--color-primary-dark);
+  border-bottom-color: var(--color-primary);
+}
+
+.footer-address a:active {
+  transform: translateY(1px);
+}
+
 .footer-copyright {
   padding-top: var(--space-md);
   border-top: 1px solid var(--color-border);
