@@ -20,6 +20,22 @@ servers:
     offering: "원경희"
     serving_department: "남선교회"
 
+# 점심 섬김 담당
+lunch_service:
+  table_officers: "소망속"
+  seaweed_sponsors:
+    weekly:
+      - name: "김만수"
+        position: "장로"
+      - name: "임미경"
+        position: "권사"
+  contact:
+    - department: "여선교회"
+    - name: "김혜옥"
+      position: "권사"
+    - name: "김완정"
+      position: "집사"
+
 # 섬김 역할 설명
 service_roles:
   - role: "대표기도"
