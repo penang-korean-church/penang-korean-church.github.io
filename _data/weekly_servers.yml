@@ -2,19 +2,19 @@
 
 # 예배 섬김이 (주별)
 servers:
-  - date: "2024-11-30"
+  - date: "2025-11-30"
     representative_prayer: "김완정"
     usher: "김혜옥"
     offering: "이선주"
     serving_department: "남선교회"
 
-  - date: "2024-12-07"
+  - date: "2025-12-07"
     representative_prayer: "교독문"
     usher: "김혜옥"
     offering: "원경희"
     serving_department: "남선교회"
 
-  - date: "2024-12-14"
+  - date: "2025-12-14"
     representative_prayer: "김혜옥"
     usher: "김혜옥"
     offering: "원경희"

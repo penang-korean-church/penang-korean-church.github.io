@@ -37,8 +37,8 @@
 │   ├── page.html            # 페이지 레이아웃
 │   └── post.html            # 뉴스/공지 레이아웃
 ├── _posts/                  # 소식 & 공지사항
-│   ├── 2024-12-01-december-events.md
-│   ├── 2024-12-20-christmas-service.md
+│   ├── 2025-12-01-december-events.md
+│   ├── 2025-12-20-christmas-service.md
 │   └── ...
 ├── pages/                   # 정적 페이지
 │   ├── about.md             # 교회 소개
@@ -145,7 +145,7 @@ git push origin main
 ```markdown
 ---
 title: "소식 제목"
-date: 2024-12-15
+date: 2025-12-15
 category: "공지"
 tags: ["태그1", "태그2"]
 summary: "간단한 요약"
@@ -247,4 +247,4 @@ summary: "간단한 요약"
 
 ---
 
-**© 2024 페낭한인교회 (Penang Korean Church). All rights reserved.**
+**© 2025 페낭한인교회 (Penang Korean Church). All rights reserved.**

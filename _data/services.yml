@@ -75,13 +75,13 @@ regular_meetings:
 # 절기 예배
 special_services:
   - name: "성탄절 예배"
-    date: "2024-12-25"
+    date: "2025-12-25"
     day: "목요일"
     time: "11:00"
     location: "본당"
 
   - name: "신년감사예배"
-    date: "2026-01-01"
-    day: "목요일"
+    date: "2027-01-01"
+    day: "금요일"
     time: "11:00"
     location: "본당"

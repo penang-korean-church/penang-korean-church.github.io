@@ -1,17 +1,17 @@
 # 페낭한인교회 행사 및 일정
 
 # 12월 행사
-december_2024:
-  - name: "2025년 1차 임시운영위원회"
-    date: "2024-12-07"
+december_2025:
+  - name: "2026년 1차 임시운영위원회"
+    date: "2025-12-07"
     day: "주일"
     time: "13:00"
     location: "본당"
     note: "식사 교제 후"
     type: "meeting"
 
-  - name: "2025년 교회 총회"
-    date: "2024-12-14"
+  - name: "2026년 교회 총회"
+    date: "2025-12-14"
     day: "주일"
     time: "13:00"
     location: "본당"
@@ -19,17 +19,17 @@ december_2024:
     type: "meeting"
 
   - name: "성탄절 예배"
-    date: "2024-12-25"
+    date: "2025-12-25"
     day: "목요일"
     time: "11:00"
     location: "본당"
     type: "special_service"
 
-# 2026년 1월 행사
-january_2026:
+# 2027년 1월 행사
+january_2027:
   - name: "신년감사예배"
-    date: "2026-01-01"
-    day: "목요일"
+    date: "2027-01-01"
+    day: "금요일"
     time: "11:00"
     location: "본당"
     type: "special_service"
@@ -44,8 +44,8 @@ regular_events:
 
 # 기도 제목
 prayer_requests:
-  - title: "2026년 목회 계획"
-    description: "2026년 목회 계획이 잘 세워지도록"
+  - title: "2027년 목회 계획"
+    description: "2027년 목회 계획이 잘 세워지도록"
     category: "church"
 
 # 대강절 시리즈 (설교 주제)
@@ -53,7 +53,7 @@ advent_series:
   title: "대강절 시리즈"
   sermons:
     - week: 1
-      date: "2024-11-30"
+      date: "2025-11-30"
       title: "성육신 - 우리 동네로 오시다"
       scripture: "요한복음 1:14"
       preacher: "이충원 목사"
