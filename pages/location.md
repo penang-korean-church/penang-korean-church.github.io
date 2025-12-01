@@ -15,6 +15,7 @@ subtitle: "페낭한인교회의 위치와 오시는 방법을 안내합니다"
 - 휴대전화(H.P.): <a href="tel:+60-17-510-3771">+60-17-510-3771</a>
 - 이메일: <a href="mailto:penangkc1994@naver.com">penangkc1994@naver.com</a>
 - 홈페이지: <a href="http://www.pkc1994.modoo.at" target="_blank" rel="noopener noreferrer">www.pkc1994.modoo.at</a>
+- 카페: <a href="https://cafe.daum.net/PenangChurch" target="_blank" rel="noopener noreferrer">cafe.daum.net/PenangChurch</a>
 
 ## 지도
 

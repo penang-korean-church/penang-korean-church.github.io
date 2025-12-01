@@ -184,12 +184,28 @@
   }
 
   /**
+   * 11. 모바일에서 카페 링크를 모바일 버전으로 변경
+   */
+  function updateCafeLinksForMobile() {
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+    if (isMobile) {
+      const cafeLinks = document.querySelectorAll('a[href="https://cafe.daum.net/PenangChurch"]');
+      cafeLinks.forEach(function(link) {
+        link.href = 'https://m.cafe.daum.net/PenangChurch/';
+      });
+      console.log('📱 모바일 카페 링크로 변경됨:', cafeLinks.length + '개');
+    }
+  }
+
+  /**
    * 모든 추적 초기화
    */
   function initAnalytics() {
     // DOM이 로드된 후 실행
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', function() {
+        updateCafeLinksForMobile();
         trackPhoneCalls();
         trackEmailClicks();
         trackMapClicks();
@@ -204,6 +220,7 @@
         console.log('✅ Google Analytics 이벤트 추적 초기화 완료');
       });
     } else {
+      updateCafeLinksForMobile();
       trackPhoneCalls();
       trackEmailClicks();
       trackMapClicks();
