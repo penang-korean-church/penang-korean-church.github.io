@@ -29,6 +29,9 @@ social:
   instagram: ""
   youtube: ""
 
+# Analytics
+google_analytics: "G-PMSJY8H4KV"
+
 # Build settings
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
