@@ -21,12 +21,24 @@
   <meta property="og:description" content="{{ page.description | default: site.description }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="{{ site.locale | default: 'ko_KR' }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  {% else %}
+  <meta property="og:image" content="{{ '/assets/images/og-image.jpg' | absolute_url }}">
+  {% endif %}
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
 
   <!-- Twitter -->
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
   <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+  {% else %}
+  <meta name="twitter:image" content="{{ '/assets/images/og-image.jpg' | absolute_url }}">
+  {% endif %}
 
   <!-- Local Business Structured Data (JSON-LD) -->
   <script type="application/ld+json">
@@ -35,11 +47,15 @@
     "@type": "Church",
     "name": "{{ site.church.name }}",
     "alternateName": "{{ site.church.name_en }}",
-    "url": "{{ site.url }}",
+    "url": "{{ site.url }}{{ site.baseurl }}",
+    "logo": "{{ '/assets/images/logo.png' | absolute_url }}",
+    "image": "{{ '/assets/images/og-image.jpg' | absolute_url }}",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "{{ site.church.address }}",
       "addressLocality": "Penang",
+      "postalCode": "11200",
+      "addressRegion": "Penang",
       "addressCountry": "MY"
     },
     "geo": {
@@ -50,7 +66,22 @@
     "telephone": "{{ site.church.phone }}",
     "email": "{{ site.church.email }}",
     "foundingDate": "{{ site.established }}",
-    "description": "{{ site.description }}"
+    "description": "{{ site.description }}",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "11:00",
+        "closes": "12:30",
+        "description": "주일예배"
+      }
+    ],
+    "sameAs": [
+      {% if site.social.facebook != "" %}"{{ site.social.facebook }}",{% endif %}
+      {% if site.social.instagram != "" %}"{{ site.social.instagram }}",{% endif %}
+      {% if site.social.youtube != "" %}"{{ site.social.youtube }}"{% endif %}
+    ]
   }
   </script>
 
@@ -58,9 +89,19 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 
   <!-- Additional SEO -->
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   <meta name="googlebot" content="index, follow">
   <meta name="revisit-after" content="7 days">
+  <meta name="format-detection" content="telephone=yes">
+  <meta name="geo.region" content="MY-07">
+  <meta name="geo.placename" content="Penang">
+  <meta name="geo.position" content="{{ site.church.latitude }};{{ site.church.longitude }}">
+  <meta name="ICBM" content="{{ site.church.latitude }}, {{ site.church.longitude }}">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
