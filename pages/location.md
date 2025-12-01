@@ -8,17 +8,13 @@ subtitle: "페낭한인교회의 위치와 오시는 방법을 안내합니다"
 **페낭한인교회**는 Tanjung Bungah 지역에 위치하고 있습니다.
 
 **주소**:
-```
-598-01-02, Menara Asas
-Tanjung Bungah, 11200
-Penang, Malaysia
-```
+<span class="address-text">598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia</span>
 
 **연락처**:
-- 전화(Tel): +60-4-299-7935
-- 휴대전화(H.P.): +60-17-510-3771
-- 이메일: penangkc1994@naver.com
-- 홈페이지: www.pkc1994.modoo.at
+- 전화(Tel): <a href="tel:+60-4-299-7935">+60-4-299-7935</a>
+- 휴대전화(H.P.): <a href="tel:+60-17-510-3771">+60-17-510-3771</a>
+- 이메일: <a href="mailto:penangkc1994@naver.com">penangkc1994@naver.com</a>
+- 홈페이지: <a href="http://www.pkc1994.modoo.at" target="_blank" rel="noopener noreferrer">www.pkc1994.modoo.at</a>
 
 ## 지도
 

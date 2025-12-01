@@ -712,6 +712,67 @@ img {
   transform: translateY(1px);
 }
 
+/* 주소 텍스트 - 클릭 시 전체 선택 */
+.address-text {
+  user-select: all;
+  -webkit-user-select: all;
+  -moz-user-select: all;
+  -ms-user-select: all;
+  cursor: text;
+  padding: 2px 4px;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+
+.address-text:hover {
+  background-color: rgba(79, 169, 255, 0.1);
+}
+
+/* 지도열기 링크 버튼 스타일 */
+.map-link {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 4px 12px;
+  background-color: var(--color-primary);
+  color: white !important;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: none !important;
+  transition: all 0.2s ease;
+}
+
+.map-link:hover {
+  background-color: var(--color-primary-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.map-link:active {
+  transform: translateY(0);
+}
+
+/* 페이지 콘텐츠 내 연락처 링크 스타일 */
+.page-content a[href^="tel:"],
+.page-content a[href^="mailto:"],
+.post-content a[href^="tel:"],
+.post-content a[href^="mailto:"] {
+  color: var(--color-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.page-content a[href^="tel:"]:hover,
+.page-content a[href^="mailto:"]:hover,
+.post-content a[href^="tel:"]:hover,
+.post-content a[href^="mailto:"]:hover {
+  color: var(--color-primary-dark);
+  border-bottom-color: var(--color-primary);
+}
+
 .footer-copyright {
   padding-top: var(--space-md);
   border-top: 1px solid var(--color-border);
