@@ -1,8 +1,8 @@
 # Site settings
 title: "페낭한인교회 (Penang Korean Church)"
 description: "말레이시아 페낭에서 함께 예배하는 한인 교회입니다 - Since 1994"
-url: "https://aaron-jang.github.io"
-baseurl: "/penang-korean-church"
+url: "https://penang-korean-church.github.io"
+baseurl: ""
 established: 1994
 pastor: "이충원 목사"
 

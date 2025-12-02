@@ -6,8 +6,7 @@
 
 ## 🌐 Live Site
 
-- **Production**: https://aaron-jang.github.io/penang-korean-church/
-- **Church Website**: www.pkc1994.modoo.at
+- **Production**: https://penang-korean-church.github.io/
 
 ## ✨ 주요 기능
 
@@ -104,12 +103,12 @@ bundle exec jekyll serve
 
 ### 현재 설정 (프로젝트 저장소)
 
-이 프로젝트는 `aaron-jang/penang-korean-church` 저장소로 배포됩니다.
+이 프로젝트는 `penang-korean-church/penang-korean-church.github.io` 저장소로 배포됩니다.
 
 `_config.yml` 설정:
 ```yaml
-url: "https://aaron-jang.github.io"
-baseurl: "/penang-korean-church"
+url: "https://penang-korean-church.github.io"
+baseurl: ""
 ```
 
 ### 배포 단계
@@ -126,7 +125,7 @@ git push origin main
    - Source: `main` 브랜치 선택
    - 1-2분 후 자동 배포
 
-3. **사이트 접속**: https://aaron-jang.github.io/penang-korean-church/
+3. **사이트 접속**: https://penang-korean-church.github.io/
 
 ## 🎨 커스터마이징
 
@@ -196,7 +195,7 @@ summary: "간단한 요약"
 
 1. [Google Search Console](https://search.google.com/search-console/) 접속
 2. 사이트 URL 추가
-3. `sitemap.xml` 제출: `https://aaron-jang.github.io/penang-korean-church/sitemap.xml`
+3. `sitemap.xml` 제출: `https://penang-korean-church.github.io/sitemap.xml`
 
 ## 📞 교회 정보
 
