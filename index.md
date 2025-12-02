@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "페낭한인교회"
+description: "말레이시아 페낭에서 함께 예배하는 한인 교회. 1994년 설립, 주일예배 오전 11시, 예배·교제·사역 안내"
+keywords: "페낭한인교회, Penang Korean Church, 말레이시아 한인교회, 페낭 교회, 한인 예배"
 ---
 
 <div class="container">
