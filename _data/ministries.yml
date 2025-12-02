@@ -35,24 +35,6 @@ departments:
 
 # 봉사 부서
 service_teams:
-  - name: "남선교회"
-    description: "남성 성도들의 교제와 봉사"
-
   - name: "찬양팀"
     leader: "전세계로 간사"
     description: "예배 찬양 인도"
-
-# 성찬 및 식사 섬김
-hospitality:
-  communion_meal_prep:
-    - name: "민현수"
-      position: "장로"
-    - name: "임미경"
-      position: "권사"
-
-  meal_coordinator:
-    name: "민현수"
-    position: "장로"
-    note: "간식/식사 섬김 간사"
-
-  volunteer_info: "예배 후 간식 및 식사 섬김을 원하는 성도는 교회 게시판에 이름을 작성해 주시기 바랍니다."

@@ -6,23 +6,21 @@ servers:
     representative_prayer: "김완정"
     usher: "김혜옥"
     offering: "이선주"
-    serving_department: "남선교회"
 
   - date: "2025-12-07"
     representative_prayer: "교독문"
     usher: "김혜옥"
     offering: "원경희"
-    serving_department: "남선교회"
 
   - date: "2025-12-14"
     representative_prayer: "김혜옥"
     usher: "김혜옥"
     offering: "원경희"
-    serving_department: "남선교회"
 
 # 점심 섬김 담당
 lunch_service:
-  table_officers: "소망속"
+  sponsor: "심텍 임직원"
+  meal_preparation: "소망속"
   seaweed_sponsors:
     weekly:
       - name: "김만수"
@@ -49,7 +47,3 @@ service_roles:
   - role: "헌금위원"
     description: "헌금을 받고 관리합니다"
     english: "Offering"
-
-  - role: "봉사부서"
-    description: "당일 예배 후 식사 및 정리를 담당합니다"
-    english: "Serving Department"
