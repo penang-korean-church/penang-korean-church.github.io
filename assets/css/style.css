@@ -192,6 +192,7 @@ img {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  line-height: 1.6;
 }
 
 .hero-actions {
@@ -199,6 +200,39 @@ img {
   gap: var(--space-sm);
   justify-content: center;
   flex-wrap: wrap;
+}
+
+/* Mobile optimizations for hero section */
+@media (max-width: 767px) {
+  .site-main {
+    padding: var(--space-md) 0;
+  }
+
+  .hero {
+    padding: var(--space-lg) var(--space-md);
+    margin-bottom: var(--space-lg);
+  }
+
+  .hero-title {
+    font-size: 1.5rem;
+    margin-bottom: var(--space-sm);
+    line-height: 1.4;
+  }
+
+  .hero-text {
+    font-size: 0.95rem;
+    margin-bottom: var(--space-sm);
+    line-height: 1.5;
+  }
+
+  .hero-actions {
+    gap: var(--space-xs);
+  }
+
+  .btn {
+    padding: 0.65rem 1.25rem;
+    font-size: 0.9rem;
+  }
 }
 
 @media (min-width: 768px) {

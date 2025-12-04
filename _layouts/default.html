@@ -12,6 +12,9 @@
   <meta name="keywords" content="{{ page.keywords | default: site.keywords }}">
   <meta name="author" content="{{ site.author }}">
   <meta name="language" content="{{ site.lang | default: 'ko' }}">
+  <meta name="application-name" content="{{ site.church.name }}">
+  <meta name="apple-mobile-web-app-title" content="{{ site.church.name }}">
+  <meta name="theme-color" content="#2563eb">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!-- Open Graph / Facebook -->
@@ -93,6 +96,8 @@
   <meta name="googlebot" content="index, follow">
   <meta name="revisit-after" content="7 days">
   <meta name="format-detection" content="telephone=yes">
+  <meta name="publisher" content="{{ site.church.name }}">
+  <meta name="copyright" content="{{ site.church.name }}">
   <meta name="geo.region" content="MY-07">
   <meta name="geo.placename" content="Penang">
   <meta name="geo.position" content="{{ site.church.latitude }};{{ site.church.longitude }}">
