@@ -20,6 +20,20 @@ last_modified_at: 2025-12-04
     </div>
   </section>
 
+  <!-- Church Introduction Section -->
+  <section class="section" style="background-color: var(--color-surface); padding: 2rem; margin: 2rem 0; border-radius: 16px;">
+    <div style="text-align: center; margin-bottom: 1.5rem;">
+      <img src="{{ '/assets/images/pastor.jpg' | relative_url }}" alt="페낭한인교회 예배 모습" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(15, 30, 60, 0.1);">
+    </div>
+    <div style="text-align: center; max-width: 700px; margin: 0 auto;">
+      <h3 style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--color-text-main);">하나님을 예배하는 공동체</h3>
+      <p style="color: var(--color-text-muted); line-height: 1.8;">
+        페낭한인교회는 1994년 설립 이후 말레이시아 페낭에서 복음 안에서 하나 되어 하나님을 예배하고,
+        서로 사랑하며, 이 땅을 섬기는 믿음의 공동체입니다.
+      </p>
+    </div>
+  </section>
+
   <!-- Recent News Section -->
   <section class="section">
     <header class="section-header">
