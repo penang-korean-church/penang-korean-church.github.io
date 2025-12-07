@@ -226,16 +226,7 @@ img {
   }
 
   .hero-actions {
-    gap: 0.5rem;
-    flex-direction: row;
-  }
-
-  .hero-actions .btn {
-    flex: 1;
-    min-width: 0;
-    padding: 0.65rem 0.75rem;
-    font-size: 0.85rem;
-    white-space: nowrap;
+    gap: var(--space-xs);
   }
 
   .btn {
