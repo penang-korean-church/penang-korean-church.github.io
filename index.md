@@ -22,9 +22,12 @@ last_modified_at: 2025-12-04
 
   <!-- Church Introduction Section -->
   <section class="section" style="background-color: var(--color-surface); padding: 2rem; margin: 2rem 0; border-radius: 16px;">
+    {% assign current_month = 'now' | date: "%m" %}
+    {% if current_month == "12" %}
     <div style="text-align: center; margin-bottom: 1.5rem;">
-      <img src="{{ '/assets/images/pastor.jpg' | relative_url }}" alt="페낭한인교회 예배 모습" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(15, 30, 60, 0.1);">
+      <img src="{{ '/assets/images/december-service.jpg' | relative_url }}" alt="페낭한인교회 12월 예배 모습" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(15, 30, 60, 0.1);">
     </div>
+    {% endif %}
     <div style="text-align: center; max-width: 700px; margin: 0 auto;">
       <h3 style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--color-text-main);">하나님을 예배하는 공동체</h3>
       <p style="color: var(--color-text-muted); line-height: 1.8;">
