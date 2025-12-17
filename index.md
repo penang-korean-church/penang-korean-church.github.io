@@ -45,8 +45,7 @@ last_modified_at: 2025-12-04
     </header>
 
     <div class="card-grid">
-      {% assign recent_posts = site.posts | limit: 3 %}
-      {% for post in recent_posts %}
+      {% for post in site.posts limit:3 %}
       <article class="card">
         <div class="card-meta">
           <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
