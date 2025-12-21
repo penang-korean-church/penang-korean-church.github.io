@@ -29,6 +29,8 @@ last_modified_at: 2025-12-21
 
 아기 예수님의 탄생을 함께 축하하고 경배하는 귀한 시간을 갖습니다.
 
+📅 [구글 캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%84%B1%ED%83%84%EC%A0%88+%EC%84%B1%EC%B0%AC+%EC%98%88%EB%B0%B0&dates=20251225T030000Z/20251225T043000Z&details=%EC%95%84%EA%B8%B0+%EC%98%88%EC%88%98%EB%8B%98%EC%9D%98+%ED%83%84%EC%83%9D%EC%9D%84+%ED%95%A8%EA%BB%98+%EC%B6%95%ED%95%98%ED%95%98%EA%B3%A0+%EC%84%B1%EC%B0%AC%EC%8B%9D%EC%9D%84+%ED%95%98%EB%8A%94+%EA%B7%80%ED%95%9C+%EC%8B%9C%EA%B0%84&location=598-01-02%2C+Menara+Asas%2C+Tanjung+Bungah%2C+11200%2C+Penang%2C+Malaysia&ctz=Asia/Kuala_Lumpur)
+
 ---
 
 ### 🎊 2026년 신년감사예배
@@ -36,6 +38,8 @@ last_modified_at: 2025-12-21
 - **일시**: 1월 1일(목) 오전 11시
 
 새해 첫날, 하나님께 감사와 찬양을 드리며 2026년을 시작합니다.
+
+📅 [구글 캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=2026%EB%85%84+%EC%8B%A0%EB%85%84%EA%B0%90%EC%82%AC%EC%98%88%EB%B0%B0&dates=20260101T030000Z/20260101T043000Z&details=%EC%83%88%ED%95%B4+%EC%B2%AB%EB%82%A0%2C+%ED%95%98%EB%82%98%EB%8B%98%EA%BB%98+%EA%B0%90%EC%82%AC%EC%99%80+%EC%B0%AC%EC%96%91%EC%9D%84+%EB%93%9C%EB%A6%AC%EB%A9%B0+2026%EB%85%84%EC%9D%84+%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4&location=598-01-02%2C+Menara+Asas%2C+Tanjung+Bungah%2C+11200%2C+Penang%2C+Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ---
 
