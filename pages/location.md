@@ -1,9 +1,9 @@
 ---
 title: "찾아오시는 길"
 subtitle: "페낭한인교회의 위치와 오시는 방법을 안내합니다"
-description: "페낭한인교회 주소: Menara Asas, Tanjung Bungah, Penang. 연락처, 지도, 오시는 방법 안내"
+description: "페낭한인교회 찾아오시는 길 | Menara Asas, Tanjung Bungah 위치. 상세 주소, 지도, 자가용·대중교통 안내, 주차정보. 전화 +60-4-299-7935. 처음 오시는 분들을 위한 안내"
 keywords: "페낭한인교회 위치, 페낭 교회 주소, Menara Asas, Tanjung Bungah, 페낭 교회 찾아가기"
-last_modified_at: 2025-12-04
+last_modified_at: 2025-12-28
 ---
 
 ## 📍 교회 위치
