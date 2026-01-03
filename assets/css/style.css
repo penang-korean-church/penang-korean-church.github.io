@@ -878,3 +878,77 @@ img {
 .mb-lg {
   margin-bottom: var(--space-lg);
 }
+
+/* ==========================================================================
+   Annual Theme Verse
+   ========================================================================== */
+
+.annual-theme {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(135deg, #6bc0ff 0%, #4fa9ff 100%);
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(107, 192, 255, 0.25);
+  margin: 3rem 0;
+}
+
+.annual-theme-label {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.annual-theme-title {
+  color: white;
+  font-size: 2.2rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.annual-theme-content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.annual-theme-verse {
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 1.15rem;
+  line-height: 1.9;
+  margin-bottom: 1.5rem;
+}
+
+.annual-theme-reference {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.05rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Dark Mode */
+[data-theme="dark"] .annual-theme {
+  background: linear-gradient(135deg, #2d5a7b 0%, #1e3a52 100%);
+  box-shadow: 0 8px 24px rgba(30, 58, 82, 0.4);
+}
+
+/* Mobile Optimizations */
+@media (max-width: 767px) {
+  .annual-theme {
+    padding: 2rem 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .annual-theme-title {
+    font-size: 1.6rem;
+  }
+
+  .annual-theme-verse {
+    font-size: 1rem;
+  }
+
+  .annual-theme-reference {
+    font-size: 0.95rem;
+  }
+}

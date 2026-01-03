@@ -20,6 +20,19 @@ last_modified_at: 2025-12-04
     </div>
   </section>
 
+  <!-- 2026 Annual Theme Verse -->
+  <section class="annual-theme">
+    <div class="annual-theme-content">
+      <p class="annual-theme-label">2026년 연간 주제 말씀</p>
+      <h2 class="annual-theme-title">그와 함께 머물기</h2>
+      <p class="annual-theme-verse">
+        "와서 보아라." 그들이 따라가서, 예수께서 묵고 계시는 곳을 보고,<br>
+        그 날을 그와 함께 지냈다.
+      </p>
+      <p class="annual-theme-reference">요한복음 1:39</p>
+    </div>
+  </section>
+
   <!-- Church Introduction Section -->
   <section class="section" style="background-color: var(--color-surface); padding: 2rem; margin: 2rem 0; border-radius: 16px;">
     {% assign current_month = 'now' | date: "%m" %}
