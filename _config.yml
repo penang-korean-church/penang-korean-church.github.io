@@ -36,6 +36,7 @@ google_analytics: "G-BFEVR64TEW"
 # Build settings
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
+future: true  # Show posts with future dates
 
 # Defaults
 defaults:
