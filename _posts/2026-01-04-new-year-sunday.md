@@ -13,8 +13,7 @@ last_modified_at: 2026-01-04
   <div class="annual-theme-content">
     <h2 class="annual-theme-title">그와 함께 머물기</h2>
     <p class="annual-theme-verse">
-      "와서 보아라." 그들이 따라가서, 예수께서 묵고 계시는 곳을 보고,<br>
-      그 날을 그와 함께 지냈다.
+      "와서 보아라." 그들이 따라가서, 예수께서 묵고 계시는 곳을 보고, 그 날을 그와 함께 지냈다.
     </p>
     <p class="annual-theme-reference">요한복음 1:39</p>
   </div>
