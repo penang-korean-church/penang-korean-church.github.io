@@ -3,17 +3,17 @@
 # 속회 정보
 cell_groups:
   - name: "믿음 속회"
-    leader: "김혜옥"
+    leader: "김*옥"
     meeting: "연합"
     status: "방학"
 
   - name: "소망 속회"
-    leader: "한유림"
+    leader: "한*림"
     meeting: "연합"
     status: "방학"
 
   - name: "사랑 속회"
-    leader: "김완정"
+    leader: "김*정"
     meeting: "연합"
     status: "방학"
 
