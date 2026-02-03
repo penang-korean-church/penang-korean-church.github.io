@@ -34,11 +34,6 @@ last_modified_at: 2025-12-28
 **네비게이션 주소**:
 <span class="address-text">Menara Asas, Tanjung Bungah, 11200, Penang</span>
 
-<div class="nav-buttons mobile-only">
-  <a href="https://maps.app.goo.gl/r3jQftXakGJeN6nn6" class="btn btn-primary">📍 구글맵 네비</a>
-  <a href="https://waze.com/ul/hw0zr44beq" class="btn btn-outline">🚗 웨이즈 네비</a>
-</div>
-
 **주차 안내**:
 - 유니클로 앞 주차장을 이용해 주시기 바랍니다
 - 주차 후 Menara Asas 건물까지 도보로 이동 가능합니다
