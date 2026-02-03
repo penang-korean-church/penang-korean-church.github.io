@@ -37,16 +37,8 @@ last_modified_at: 2025-12-28
 
 ### 🚙 자가용 이용 시
 
-**조지타운에서**:
-1. Jalan Sultan Ahmad Shah를 따라 북쪽으로 진행
-2. Tanjung Bungah 방면으로 계속 진행
-3. Menara Asas 건물로 진입
-
-**공항에서** (Penang International Airport):
-1. 공항에서 차로 약 30분 거리
-2. Jalan Sultan Azlan Shah를 따라 진행
-3. Lebuhraya Tun Dr Lim Chong Eu로 진입
-4. Tanjung Bungah 출구로 나가 Menara Asas로 진행
+**네비게이션 주소**:
+<span class="address-text">Menara Asas, Tanjung Bungah, 11200, Penang</span>
 
 **주차 안내**:
 - 유니클로 앞 주차장을 이용해 주시기 바랍니다
@@ -62,14 +54,6 @@ last_modified_at: 2025-12-28
 **Grab/택시**:
 - 목적지: "Menara Asas, Tanjung Bungah" 또는 주소 입력
 - 조지타운 중심부에서 약 RM 20-30
-
-## 🏛️ 주변 랜드마크
-
-교회를 찾으실 때 참고하실 수 있는 주요 랜드마크:
-
-- **Tanjung Bungah 해변**: 도보 거리
-- **Menara Asas 건물**: 교회 위치
-- **Straits Quay**: 차로 약 5분
 
 ## 👋 처음 방문하시는 분들께
 
