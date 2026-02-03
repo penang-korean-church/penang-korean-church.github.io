@@ -26,7 +26,7 @@ last_modified_at: 2026-02-01
     <div class="two-column location-grid">
       <div class="column-info-lifehouse">
         <h2 class="location-time">일요일 오전 11시</h2>
-        <p class="location-address">598-01-02, Menara Asas, Tanjung Bungah,<br>11200, Penang, Malaysia</p>
+        <p class="location-address"><span class="address-text">598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia</span></p>
         <div class="location-buttons">
           <a href="{{ '/pages/location/' | relative_url }}" class="btn btn-primary">방문 계획하기</a>
           <a href="https://maps.google.com/?q=Menara+Asas,+Tanjung+Bungah,+Penang" target="_blank" class="btn btn-outline">📍 구글맵</a>

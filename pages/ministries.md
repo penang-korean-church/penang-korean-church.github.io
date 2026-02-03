@@ -11,8 +11,19 @@ last_modified_at: 2026-02-01
 | 부서 | 담당 | 모임 시간 | 장소 |
 |:---:|:---:|:---:|:---:|
 | 🎓 학생부 | 이충원 목사 | 주일 오전 9시 | 교육관 |
-| 👧🏻 어린이부 | 한유림 사모 | 주일 오전 11시 | 교육관 |
+| 👧🏻 어린이부 | 정지영 선교사 | 주일 오전 11시 | 교육관 |
 | 🧒🏻 유치부 | - | 주일 오전 11시 | 교육관 |
+
+<div class="ministry-photos">
+  <div class="ministry-photo">
+    <img src="/assets/images/student-ministry.jpg" alt="학생부">
+    <p class="ministry-photo-label">학생부</p>
+  </div>
+  <div class="ministry-photo">
+    <img src="/assets/images/children-ministry.jpg" alt="어린이부">
+    <p class="ministry-photo-label">어린이부</p>
+  </div>
+</div>
 
 ---
 
@@ -35,13 +46,17 @@ last_modified_at: 2026-02-01
 | 사랑 속회 | 김\*옥 | 속별 장소 |
 | 기쁨 속회 | 한\*림 | 속별 장소 |
 
+<div class="photo-faded">
+  <img src="/assets/images/small-group.jpg" alt="속회 모임">
+</div>
+
 ---
 
 ## 🤝 협력 기관
 
 페낭한인교회는 다음 기관들과 협력하여 사역하고 있습니다.
 
-- **페낭토요한국학교**
+- **페낭토요한글학교**
 - **페낭우리도서관**
 
 ---

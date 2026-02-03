@@ -40,7 +40,7 @@ last_modified_at: 2025-12-28
 ### 👨🏻‍🏫 담임목사
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="{{ '/assets/images/pastor.png' | relative_url }}" alt="이충원 목사" style="max-width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(15, 30, 60, 0.1);">
+  <img src="{{ '/assets/images/pastor-photo.jpg' | relative_url }}" alt="이충원 목사" style="max-width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(15, 30, 60, 0.1);">
 </div>
 
 **이충원 목사**

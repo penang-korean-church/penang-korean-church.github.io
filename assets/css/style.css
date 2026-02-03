@@ -180,6 +180,11 @@ img {
   padding: 0;
 }
 
+/* Add top padding for pages using .container directly (not fullscreen sections) */
+.site-main > .container {
+  padding-top: var(--space-xl);
+}
+
 /* ==========================================================================
    Hero Section (Fullscreen)
    ========================================================================== */
@@ -496,7 +501,7 @@ img {
 .sermon-container {
   max-width: 800px;
   margin: 0 auto;
-  padding: 0 var(--space-md);
+  padding: var(--space-xl) var(--space-md);
 }
 
 .page-header,
@@ -520,6 +525,22 @@ img {
 .page-subtitle {
   font-size: 1.1rem;
   color: var(--color-text-muted);
+}
+
+/* Page Hero Image */
+.page-hero-image {
+  margin: var(--space-lg) 0;
+  border-radius: var(--radius-medium);
+  overflow: hidden;
+  box-shadow: var(--shadow-medium);
+}
+
+.page-hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 400px;
 }
 
 .post-meta,
@@ -789,6 +810,64 @@ img {
   font-size: 1rem;
   color: var(--color-text-main);
   line-height: 1.7;
+}
+
+/* Ministry Photos Grid */
+.ministry-photos {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-lg);
+  margin: var(--space-lg) 0;
+}
+
+.ministry-photo {
+  border-radius: var(--radius-medium);
+  overflow: hidden;
+  box-shadow: var(--shadow-soft);
+  background-color: var(--color-surface);
+}
+
+.ministry-photo img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+.ministry-photo-label {
+  text-align: center;
+  padding: var(--space-sm);
+  font-weight: 600;
+  color: var(--color-text-main);
+  margin: 0 !important;
+  line-height: 1;
+}
+
+@media (max-width: 767px) {
+  .ministry-photos {
+    grid-template-columns: 1fr;
+  }
+
+  .ministry-photo img {
+    height: 200px;
+  }
+}
+
+/* Faded Photo Style */
+.photo-faded {
+  margin: var(--space-lg) 0;
+  border-radius: var(--radius-medium);
+  overflow: hidden;
+}
+
+.photo-faded img {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: cover;
+  display: block;
+  opacity: 0.6;
+  filter: blur(1px);
 }
 
 /* ==========================================================================
@@ -1379,10 +1458,6 @@ img {
     gap: 2rem;
   }
 
-  .column-map {
-    order: -1;
-  }
-
   .cta-title {
     font-size: 1.75rem;
   }
@@ -1462,5 +1537,124 @@ img {
 
   .location-buttons .btn {
     text-align: center;
+  }
+}
+
+/* ==========================================================================
+   Mobile Hamburger Menu
+   ========================================================================== */
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  z-index: 101;
+}
+
+.hamburger {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: var(--color-text-main);
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+.hamburger::before,
+.hamburger::after {
+  content: '';
+  position: absolute;
+  width: 24px;
+  height: 2px;
+  background-color: var(--color-text-main);
+  left: 0;
+  transition: transform 0.3s ease;
+}
+
+.hamburger::before {
+  top: -7px;
+}
+
+.hamburger::after {
+  top: 7px;
+}
+
+/* Hamburger animation when open */
+.menu-toggle.active .hamburger {
+  background-color: transparent;
+}
+
+.menu-toggle.active .hamburger::before {
+  transform: rotate(45deg);
+  top: 0;
+}
+
+.menu-toggle.active .hamburger::after {
+  transform: rotate(-45deg);
+  top: 0;
+}
+
+@media (max-width: 767px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .header-inner {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .site-nav {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 70%;
+    max-width: 300px;
+    height: 100vh;
+    background-color: var(--color-surface);
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 5rem 2rem 2rem;
+    box-shadow: -4px 0 20px rgba(0, 0, 0, 0.1);
+    transition: right 0.3s ease;
+    z-index: 100;
+  }
+
+  .site-nav.active {
+    right: 0;
+  }
+
+  .nav-link {
+    width: 100%;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 1rem;
+  }
+
+  .theme-toggle {
+    margin-top: 1rem;
+    align-self: flex-start;
+  }
+
+  /* Overlay when menu is open */
+  .menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    z-index: 99;
+  }
+
+  .menu-overlay.active {
+    opacity: 1;
+    visibility: visible;
   }
 }

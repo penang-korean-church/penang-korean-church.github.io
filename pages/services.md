@@ -10,6 +10,10 @@ last_modified_at: 2025-12-28
 
 페낭한인교회는 매주 주일 하나님을 예배하는 기쁨과 은혜를 함께 나누기를 원합니다.
 
+<div class="page-hero-image">
+  <img src="/assets/images/cta-bg.jpg" alt="페낭한인교회 예배">
+</div>
+
 ### 주일 예배 시간
 
 | 예배명 | 시간 | 장소 |
