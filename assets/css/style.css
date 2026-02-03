@@ -671,9 +671,9 @@ img {
   }
 
   .greeting-text {
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     padding: var(--space-lg);
-    line-height: 2;
+    line-height: 1.9;
   }
 }
 
