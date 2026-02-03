@@ -13,12 +13,6 @@ last_modified_at: 2025-12-28
 **주소**:
 <span class="address-text">598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia</span>
 
-**연락처**:
-- 전화(Tel): <a href="tel:+60-4-299-7935">+60-4-299-7935</a>
-- 휴대전화(H.P.): <a href="tel:+60-17-510-3771">+60-17-510-3771</a>
-- 이메일: <a href="mailto:penangkc1994@naver.com">penangkc1994@naver.com</a>
-- 카페: <a href="https://cafe.daum.net/PenangChurch" target="_blank" rel="noopener noreferrer">cafe.daum.net/PenangChurch</a>
-
 ## 🗺️ 지도
 
 <div class="map-container">
@@ -40,6 +34,11 @@ last_modified_at: 2025-12-28
 **네비게이션 주소**:
 <span class="address-text">Menara Asas, Tanjung Bungah, 11200, Penang</span>
 
+<div class="nav-buttons mobile-only">
+  <a href="https://maps.app.goo.gl/r3jQftXakGJeN6nn6" class="btn btn-primary">📍 구글맵 네비</a>
+  <a href="https://waze.com/ul/hw0zr44beq" class="btn btn-outline">🚗 웨이즈 네비</a>
+</div>
+
 **주차 안내**:
 - 유니클로 앞 주차장을 이용해 주시기 바랍니다
 - 주차 후 Menara Asas 건물까지 도보로 이동 가능합니다
@@ -52,5 +51,5 @@ last_modified_at: 2025-12-28
 - Menara Asas까지 도보로 이동
 
 **Grab/택시**:
-- 목적지: "Menara Asas, Tanjung Bungah" 또는 주소 입력
+- 목적지: "<span class="address-text">Menara Asas, Tanjung Bungah</span>" 또는 주소 입력
 - 조지타운 중심부에서 약 RM 20-30

@@ -1021,6 +1021,28 @@ img {
   border: none;
 }
 
+/* Navigation Buttons (Mobile Only) */
+.nav-buttons {
+  display: flex;
+  gap: var(--space-sm);
+  margin: var(--space-md) 0;
+}
+
+.nav-buttons .btn {
+  flex: 1;
+  text-align: center;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .mobile-only {
+    display: flex;
+  }
+}
+
 /* ==========================================================================
    Footer
    ========================================================================== */
