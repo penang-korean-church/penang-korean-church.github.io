@@ -62,7 +62,7 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: 18px;
   scroll-behavior: smooth;
 }
 
@@ -191,7 +191,7 @@ img {
 
 .hero-fullscreen {
   position: relative;
-  min-height: 80vh;
+  min-height: 64vh;
   display: flex;
   align-items: center;
   justify-content: center;
