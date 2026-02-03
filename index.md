@@ -28,7 +28,7 @@ last_modified_at: 2026-02-01
         <h2 class="location-time">일요일 오전 11시</h2>
         <p class="location-address"><span class="address-text">598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia</span></p>
         <div class="location-buttons">
-          <a href="{{ '/pages/location/' | relative_url }}" class="btn btn-primary">방문 계획하기</a>
+          <!-- <a href="{{ '/pages/location/' | relative_url }}" class="btn btn-primary">방문 계획하기</a> -->
           <a href="https://maps.google.com/?q=Menara+Asas,+Tanjung+Bungah,+Penang" target="_blank" class="btn btn-outline">📍 구글맵</a>
         </div>
       </div>
@@ -101,7 +101,7 @@ last_modified_at: 2026-02-01
     <div class="cta-content">
       <h2 class="cta-title">함께 예배드려요</h2>
       <p class="cta-text">페낭한인교회는 여러분을 기다립니다</p>
-      <a href="{{ '/pages/location/' | relative_url }}" class="btn btn-hero-primary">방문 계획하기</a>
+      <!-- <a href="{{ '/pages/location/' | relative_url }}" class="btn btn-hero-primary">방문 계획하기</a> -->
     </div>
   </div>
 </section>
