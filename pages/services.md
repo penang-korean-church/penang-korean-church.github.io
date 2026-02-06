@@ -23,6 +23,17 @@ last_modified_at: 2026-02-03
 | **어린이부** | 주일 오전 11시 | 교육관 |
 | **학생부** | 주일 오전 9시 | 교육관 |
 
+<div class="ministry-photos">
+  <div class="ministry-photo">
+    <img src="/assets/images/student-ministry.jpg" alt="학생부">
+    <p class="ministry-photo-label">학생부</p>
+  </div>
+  <div class="ministry-photo">
+    <img src="/assets/images/children-ministry.jpg" alt="어린이부">
+    <p class="ministry-photo-label">어린이부</p>
+  </div>
+</div>
+
 ---
 
 ## 정기 모임
