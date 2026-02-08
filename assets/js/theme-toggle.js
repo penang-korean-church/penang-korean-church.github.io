@@ -83,10 +83,7 @@
     });
   }
 
-  // 페이지 로드 시 즉시 실행 (깜빡임 방지)
-  initTheme();
-
-  // DOM 완전 로드 후 이벤트 리스너 등록
+  // DOM 완전 로드 후 이벤트 리스너 등록 (initTheme은 인라인 스크립트에서 이미 실행됨)
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {

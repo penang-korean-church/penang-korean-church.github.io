@@ -109,19 +109,37 @@
   <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
 
+  <!-- Preload LCP hero image -->
+  <link rel="preload" as="image" type="image/webp" fetchpriority="high"
+        href="{{ '/assets/images/hero-bg.webp' | relative_url }}"
+        media="(min-width: 768px)">
+  <link rel="preload" as="image" type="image/webp" fetchpriority="high"
+        href="{{ '/assets/images/hero-bg-mobile.webp' | relative_url }}"
+        media="(max-width: 767px)">
+
+  <!-- Preconnect to external origins -->
+  <link rel="preconnect" href="https://www.google.com" crossorigin>
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-  <!-- Theme Toggle (Load early to prevent flash) -->
-  <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+  <!-- Theme: inline critical init to prevent FOUC -->
+  <script>
+    (function(){var t=localStorage.getItem('theme')||(window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t)})();
+  </script>
+  <script defer src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BFEVR64TEW"></script>
+  <!-- Google tag (gtag.js) - deferred to avoid forced reflow during render -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-BFEVR64TEW');
+    window.addEventListener('load', function() {
+      var s = document.createElement('script');
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-BFEVR64TEW';
+      s.async = true;
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-BFEVR64TEW');
+    });
   </script>
 
   {% include website-schema.html %}
@@ -138,10 +156,10 @@
   {% include footer.html %}
 
   <!-- Google Analytics Event Tracking -->
-  <script src="{{ '/assets/js/analytics.js' | relative_url }}"></script>
+  <script defer src="{{ '/assets/js/analytics.js' | relative_url }}"></script>
 
   <!-- Mobile Menu Toggle -->
-  <script src="{{ '/assets/js/mobile-menu.js' | relative_url }}"></script>
+  <script defer src="{{ '/assets/js/mobile-menu.js' | relative_url }}"></script>
 
   <!-- Tawk.to Live Chat (temporarily disabled)
   <script type="text/javascript">
