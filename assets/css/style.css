@@ -197,7 +197,7 @@ img {
   justify-content: center;
   background:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url('../images/hero-bg.jpg');
+    url('../images/hero-bg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -312,6 +312,9 @@ img {
 @media (max-width: 767px) {
   .hero-fullscreen {
     min-height: 50vh;
+    background-image:
+      linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url('../images/hero-bg-mobile.webp');
   }
 
   .hero-content {
@@ -1214,7 +1217,7 @@ img {
   padding: 3rem 2rem;
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.6) 0%, rgba(224, 240, 255, 0.7) 100%),
-    url('../images/annual-theme-bg.jpg');
+    url('../images/annual-theme-bg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1267,7 +1270,7 @@ img {
 [data-theme="dark"] .annual-theme {
   background:
     linear-gradient(135deg, rgba(45, 45, 45, 0.65) 0%, rgba(30, 58, 82, 0.7) 100%),
-    url('../images/annual-theme-bg.jpg');
+    url('../images/annual-theme-bg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1288,7 +1291,7 @@ img {
     margin: 2rem 0;
     background:
       linear-gradient(135deg, rgba(255, 255, 255, 0.6) 0%, rgba(224, 240, 255, 0.7) 100%),
-      url('../images/annual-theme-bg-mobile.jpg');
+      url('../images/annual-theme-bg-mobile.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1297,7 +1300,7 @@ img {
   [data-theme="dark"] .annual-theme {
     background:
       linear-gradient(135deg, rgba(45, 45, 45, 0.65) 0%, rgba(30, 58, 82, 0.7) 100%),
-      url('../images/annual-theme-bg-mobile.jpg');
+      url('../images/annual-theme-bg-mobile.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1397,7 +1400,7 @@ img {
 .section-dark {
   background:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('/assets/images/cta-bg.jpg');
+    url('/assets/images/cta-bg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1448,7 +1451,7 @@ img {
 .section-annual-theme {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('/assets/images/annual-theme-bg.jpg');
+    url('/assets/images/annual-theme-bg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1620,6 +1623,18 @@ img {
 
   .cta-text {
     font-size: 1rem;
+  }
+
+  .section-dark {
+    background-image:
+      linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+      url('/assets/images/cta-bg-mobile.webp');
+  }
+
+  .section-annual-theme {
+    background-image:
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url('/assets/images/annual-theme-bg-mobile.webp');
   }
 }
 
