@@ -138,7 +138,7 @@ last_modified_at: 2026-02-15
 </div>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-  <img src="/assets/images/offering-qr.png" alt="Maybank 헌금 QR코드 - Jang Jonghun" style="max-width: 450px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
+  <img src="/assets/images/offering-qr.png" alt="Maybank 헌금 QR코드 - Jang Jonghun" style="width: 100%; max-width: 300px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
 </div>
 
 ---
