@@ -131,30 +131,15 @@ last_modified_at: 2026-02-15
 <div class="highlight-box" style="padding: 1rem 1.5rem;">
 <strong>MAYBANK</strong> <span class="address-text">5071 6167 5233</span><br>
 <strong>예금주</strong> Jang Jong Hun (재정부장)
+<hr style="margin: 0.8rem 0; border: none; border-top: 1px solid var(--color-border);">
+<span style="font-size: 0.85rem;">송금 시 <strong>성함 + 코드</strong> 입력 &nbsp;
+<strong>A</strong> 십일조 · <strong>B</strong> 감사 · <strong>C</strong> 주일 · <strong>D</strong> 선교 · <strong>E</strong> 건축 · <strong>F</strong> 절기 · <strong>G</strong> 특별/목적 · <strong>H</strong> 간식 · <strong>I</strong> 부흥회<br>
+예) Hong Gildong A → 십일조</span>
 </div>
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <img src="/assets/images/offering-qr.png" alt="Maybank 헌금 QR코드 - Jang Jonghun" style="max-width: 450px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
 </div>
-
-### 온라인 헌금 방법
-
-온라인 송금 시 **성함 + 헌금 코드**를 함께 입력해 주세요.
-입력해 주신 코드에 따라 헌금이 구분되어 처리됩니다.
-
-<div class="offering-codes" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; margin: 1rem 0;">
-  <span><strong>A</strong> 십일조</span>
-  <span><strong>B</strong> 감사헌금</span>
-  <span><strong>C</strong> 주일헌금</span>
-  <span><strong>D</strong> 선교헌금</span>
-  <span><strong>E</strong> 건축헌금</span>
-  <span><strong>F</strong> 절기헌금</span>
-  <span><strong>G</strong> 특별/목적헌금</span>
-  <span><strong>H</strong> 주일간식헌금</span>
-  <span><strong>I</strong> 부흥회</span>
-</div>
-
-> 예시: **홍길동 A** → 홍길동 성도의 십일조 헌금
 
 ---
 
