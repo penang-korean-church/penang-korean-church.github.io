@@ -31,6 +31,10 @@ last_modified_at: 2026-02-15
 
 ## ✝️ 사순절 — 예수님과 함께 걷는 40일의 여정
 
+<div class="page-hero-image">
+  <img src="/assets/images/lent.webp" alt="예수님의 세례 모자이크">
+</div>
+
 다가올 **부활의 기쁨**을 위해 신앙을 성찰하는 기간입니다.
 
 - **사순절 주일 예배**: 2월 15일(주일)
@@ -117,6 +121,40 @@ last_modified_at: 2026-02-15
 - 정\*희(집)
 
 > 식사 섬김을 위한 섬김표는 게시판을 참고해 주세요.
+
+---
+
+## 💳 헌금 안내
+
+### 온라인 헌금 계좌
+
+<div class="highlight-box" style="padding: 1rem 1.5rem;">
+<strong>MAYBANK</strong> <span class="address-text">5071 6167 5233</span><br>
+<strong>예금주</strong> Jang Jong Hun (재정부장)
+</div>
+
+<div style="text-align: center; margin: 1.5rem 0;">
+  <img src="/assets/images/offering-qr.png" alt="Maybank 헌금 QR코드 - Jang Jonghun" style="max-width: 450px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
+</div>
+
+### 온라인 헌금 방법
+
+온라인 송금 시 **성함 + 헌금 코드**를 함께 입력해 주세요.
+입력해 주신 코드에 따라 헌금이 구분되어 처리됩니다.
+
+<div class="offering-codes" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; margin: 1rem 0;">
+  <span><strong>A</strong> 십일조</span>
+  <span><strong>B</strong> 감사헌금</span>
+  <span><strong>C</strong> 주일헌금</span>
+  <span><strong>D</strong> 선교헌금</span>
+  <span><strong>E</strong> 건축헌금</span>
+  <span><strong>F</strong> 절기헌금</span>
+  <span><strong>G</strong> 특별/목적헌금</span>
+  <span><strong>H</strong> 주일간식헌금</span>
+  <span><strong>I</strong> 부흥회</span>
+</div>
+
+> 예시: **홍길동 A** → 홍길동 성도의 십일조 헌금
 
 ---
 
