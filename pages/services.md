@@ -66,7 +66,9 @@ last_modified_at: 2026-02-03
 
 ---
 
-## 헌금 안내
+## 마음을 드리는 예물 안내
+
+온라인으로도 정성을 담아 예배에 참여하실 수 있습니다.
 
 ### 온라인 헌금 계좌
 
@@ -80,5 +82,6 @@ last_modified_at: 2026-02-03
 </div>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-  <img src="/assets/images/offering-qr.png" alt="Maybank 헌금 QR코드 - Jang Jonghun" style="width: 100%; max-width: 300px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
+  <img class="offering-qr-img" src="/assets/images/offering-qr.png" alt="Maybank 헌금 QR코드 - Jang Jonghun" style="width: 100%; max-width: 300px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
+  <p style="color: var(--color-text-muted); font-size: 0.85rem; margin-top: 0.5rem;">은행 앱에서 스캔하여 송금하실 수 있습니다</p>
 </div>

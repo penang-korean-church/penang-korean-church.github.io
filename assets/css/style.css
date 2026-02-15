@@ -1828,4 +1828,8 @@ img {
     opacity: 1;
     visibility: visible;
   }
+
+  .offering-qr-img {
+    max-width: 80% !important;
+  }
 }
