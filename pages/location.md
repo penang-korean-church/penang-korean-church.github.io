@@ -49,3 +49,9 @@ last_modified_at: 2026-02-03
 - 목적지: "<span class="address-text">Menara Asas, Tanjung Bungah</span>" 또는 주소 입력
 - 조지타운 중심부에서 약 RM 20-30
 
+---
+
+<div style="text-align: center; background: var(--color-primary-soft); border-radius: var(--radius-large); padding: 2rem; margin: 1.5rem 0;">
+  <p style="font-size: 1.1rem; margin-bottom: 1rem; font-weight: 500;">처음 방문하시나요? 미리 알려주시면 더 따뜻하게 맞이하겠습니다.</p>
+  <a href="https://forms.gle/ZXZWFYHBkx3wZgr88" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.8rem 2rem; background-color: var(--color-primary); color: #fff; font-size: 1rem; font-weight: 600; border-radius: var(--radius-medium); box-shadow: 0 4px 15px rgba(0,0,0,0.15); transition: all 0.3s ease;">방문 예약하기</a>
+</div>
