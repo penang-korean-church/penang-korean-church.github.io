@@ -48,3 +48,4 @@ last_modified_at: 2026-02-03
 **Grab/택시**:
 - 목적지: "<span class="address-text">Menara Asas, Tanjung Bungah</span>" 또는 주소 입력
 - 조지타운 중심부에서 약 RM 20-30
+
