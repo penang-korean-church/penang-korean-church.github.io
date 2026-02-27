@@ -161,6 +161,9 @@
   {% include website-schema.html %}
   {% include navigation-schema.html %}
   {% include breadcrumb-schema.html %}
+  {% if page.url == "/" %}
+  {% include faq-schema.html %}
+  {% endif %}
 </head>
 <body>
   {% include header.html %}
