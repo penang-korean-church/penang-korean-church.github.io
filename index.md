@@ -3,7 +3,7 @@ layout: default
 title: "페낭한인교회"
 description: "말레이시아 페낭에서 함께 예배하는 한인 교회. 1994년 설립, 주일예배 오전 11시, 예배·교제·사역 안내"
 keywords: "페낭한인교회, Penang Korean Church, 말레이시아 한인교회, 페낭 교회, 한인 예배"
-last_modified_at: 2026-02-03
+last_modified_at: 2026-03-05T18:37:11+08:00
 ---
 
 <!-- Hero Section -->
@@ -70,23 +70,59 @@ last_modified_at: 2026-02-03
       <p class="section-subtitle">최근 교회 소식을 전해드립니다</p>
     </header>
 
+    {% assign now = site.time | date: "%Y-%m-%d" %}
+    {% assign pinned_posts = "" | split: "" %}
+    {% assign regular_posts = "" | split: "" %}
+    {% for post in site.posts %}
+      {% assign pinned_date = post.pinned_until | date: "%Y-%m-%d" %}
+      {% if pinned_date and pinned_date >= now %}
+        {% assign pinned_posts = pinned_posts | push: post %}
+      {% else %}
+        {% assign regular_posts = regular_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+
     <div class="card-grid">
-      {% for post in site.posts limit:3 %}
-      <article class="card">
-        <div class="card-meta">
-          <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
-          {% if post.category %}
-          <span class="card-category">{{ post.category }}</span>
+      {% assign shown = 0 %}
+      {% for post in pinned_posts %}
+        {% if shown < 3 %}
+        <article class="card">
+          <div class="card-meta">
+            <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
+            {% if post.category %}
+            <span class="card-category">{{ post.category }}</span>
+            {% endif %}
+          </div>
+          <h3 class="card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          {% if post.summary %}
+          <p class="card-summary">{{ post.summary }}</p>
           {% endif %}
-        </div>
-        <h3 class="card-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h3>
-        {% if post.summary %}
-        <p class="card-summary">{{ post.summary }}</p>
+          <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기 →</a>
+        </article>
+        {% assign shown = shown | plus: 1 %}
         {% endif %}
-        <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기 →</a>
-      </article>
+      {% endfor %}
+      {% for post in regular_posts %}
+        {% if shown < 3 %}
+        <article class="card">
+          <div class="card-meta">
+            <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
+            {% if post.category %}
+            <span class="card-category">{{ post.category }}</span>
+            {% endif %}
+          </div>
+          <h3 class="card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          {% if post.summary %}
+          <p class="card-summary">{{ post.summary }}</p>
+          {% endif %}
+          <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기 →</a>
+        </article>
+        {% assign shown = shown | plus: 1 %}
+        {% endif %}
       {% endfor %}
     </div>
 
