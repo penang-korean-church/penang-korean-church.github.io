@@ -546,6 +546,20 @@ img {
   max-height: 400px;
 }
 
+.page-hero-image.poster {
+  display: block;
+  width: fit-content;
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-hero-image.poster img {
+  max-height: none;
+  object-fit: contain;
+  width: 100%;
+}
+
 /* Lead Text */
 .lead-text {
   font-size: 1.25rem;

@@ -4,7 +4,7 @@ date: 2026-03-05
 category: "행사"
 tags: ["학생부", "수련회", "God's Touch", "Majesty"]
 summary: "2026 학생부 수련회 'God's Touch' 안내 — 3월 27일(금)~29일(주일), 페낭한인교회"
-last_modified_at: 2026-03-05T18:37:11+08:00
+last_modified_at: 2026-03-07T21:26:36+08:00
 pinned_until: 2026-03-27
 ---
 
@@ -32,7 +32,7 @@ pinned_until: 2026-03-27
 | **강사** | 하흥수 목사 외 외부 강사 |
 | **찬양인도** | Majesty |
 
-<div class="page-hero-image">
+<div class="page-hero-image poster">
   <img src="/assets/images/student-retreat-2026.webp" alt="2026 학생부 수련회 God's Touch 포스터">
 </div>
 
