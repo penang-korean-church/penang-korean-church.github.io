@@ -43,21 +43,21 @@ last_modified_at: 2026-03-28T21:00:00+08:00
 ## ⛪ 사순절 모임 및 예배 안내
 
 - **사순절 진행 중**: 4월 3일(금)까지
-- **고난주간**: 3월 30일 ~ 4월 3일(월~금)
-- **부활절 입교 및 성찬**: 4월 5일(주일)
+- **고난주간**: 3월 30일 ~ 4월 3일(월~금) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EA%B3%A0%EB%82%9C%EC%A3%BC%EA%B0%84&dates=20260330/20260404&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EA%B3%A0%EB%82%9C%EC%A3%BC%EA%B0%84%20%EC%98%88%EB%B0%B0&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **부활절 입교 및 성찬**: 4월 5일(주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EB%B6%80%ED%99%9C%EC%A0%88%20%EC%9E%85%EA%B5%90%20%EB%B0%8F%20%EC%84%B1%EC%B0%AC&dates=20260405T110000/20260405T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EB%B6%80%ED%99%9C%EC%A0%88%20%EC%9E%85%EA%B5%90%20%EB%B0%8F%20%EC%84%B1%EC%B0%AC%EC%98%88%EB%B0%B0&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **부활절 드라마**
 
 ---
 
 ## 📋 3월 사역자 회의
 
-- **일시**: 3월 30일(월) 오전 10시
+- **일시**: 3월 30일(월) 오전 10시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=3%EC%9B%94%20%EC%82%AC%EC%97%AD%EC%9E%90%20%ED%9A%8C%EC%9D%98&dates=20260330T100000/20260330T120000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%203%EC%9B%94%20%EC%82%AC%EC%97%AD%EC%9E%90%20%ED%9A%8C%EC%9D%98&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ---
 
 ## 📋 4월 기획위원회
 
-- **일시**: 4월 5일(주일) 주일예배 후 오후 1시
+- **일시**: 4월 5일(주일) 주일예배 후 오후 1시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=4%EC%9B%94%20%EA%B8%B0%ED%9A%8D%EC%9C%84%EC%9B%90%ED%9A%8C&dates=20260405T130000/20260405T150000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%204%EC%9B%94%20%EA%B8%B0%ED%9A%8D%EC%9C%84%EC%9B%90%ED%9A%8C&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **장소**: 목양실
 
 ---
