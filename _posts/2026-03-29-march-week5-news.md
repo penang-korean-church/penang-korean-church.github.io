@@ -31,6 +31,7 @@ last_modified_at: 2026-03-28T21:00:00+08:00
 학생부 수련회를 위해 기도, 물품, 재정, 섬김으로 후원해 주신 모든 분들께 감사드립니다.
 
 - **Majesty 찬양팀**: 하흥수 목사 외 팀원들
+  - 📸 [Majesty Worship 인스타그램](https://www.instagram.com/majestyworship?igsh=MW00dTU5bWxyMDRkMg==)
 
 ---
 
