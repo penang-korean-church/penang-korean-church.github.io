@@ -4,7 +4,7 @@ date: 2026-03-29
 category: "주보"
 tags: ["주보", "교회소식", "3월", "종려주일", "사순절", "고난주간", "부활절"]
 summary: "종려주일 예배, 학생부 수련회 후원 감사, 사순절 모임 및 예배 안내, 부활절 입교 및 성찬, 사역자 회의, 기획위원회"
-last_modified_at: 2026-03-28T21:00:00+08:00
+last_modified_at: 2026-04-04T13:31:14+08:00
 ---
 
 ## 📣 인사말
@@ -27,6 +27,13 @@ last_modified_at: 2026-03-28T21:00:00+08:00
 ---
 
 ## ⛺ 학생부 수련회 후원 감사
+
+<div class="poster-image">
+  <picture>
+    <source srcset="/assets/images/student-ministry.webp" type="image/webp">
+    <img src="/assets/images/student-ministry.jpg" alt="학생부" loading="lazy" width="1200" height="674">
+  </picture>
+</div>
 
 학생부 수련회를 위해 기도, 물품, 재정, 섬김으로 후원해 주신 모든 분들께 감사드립니다.
 
