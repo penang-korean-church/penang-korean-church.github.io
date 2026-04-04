@@ -3,7 +3,7 @@ title: "사역 & 부서"
 subtitle: "페낭한인교회의 사역과 부서를 소개합니다"
 description: "페낭한인교회 사역부서 안내 | 유치부·어린이부·학생부 예배, 속회 소그룹 모임, 찬양팀, 선교후원. 페낭토요한국학교 협력. 함께 섬기며 성장하세요"
 keywords: "페낭한인교회 사역, 속회, 어린이부, 유치부, 찬양팀, 교회 부서"
-last_modified_at: 2026-02-03
+last_modified_at: 2026-04-04T13:20:43+08:00
 ---
 
 ## 👶🏻 다음 세대
@@ -16,7 +16,10 @@ last_modified_at: 2026-02-03
 
 <div class="ministry-photos">
   <div class="ministry-photo">
-    <img src="/assets/images/student-ministry.jpg" alt="학생부">
+    <picture>
+      <source srcset="/assets/images/student-ministry.webp" type="image/webp">
+      <img src="/assets/images/student-ministry.jpg" alt="학생부" loading="lazy" width="1200" height="674">
+    </picture>
     <p class="ministry-photo-label">학생부</p>
   </div>
   <div class="ministry-photo">
