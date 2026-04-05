@@ -3,7 +3,7 @@ title: "2026년 4월 5일(주일) 소식"
 date: 2026-04-05
 category: "주보"
 tags: ["주보", "교회소식", "4월", "부활절", "부활주일"]
-summary: "부활주일 예배, 4월 모임 및 예배 안내, 기획위원회, 담임목사 한국 방문"
+summary: "부활주일 예배, 4월 모임 및 예배 안내, 기획위원회, 담임목사 한국 방문, 어린이부 달란트 시장 물품 협조"
 last_modified_at: 2026-04-04T21:00:00+08:00
 ---
 
@@ -42,6 +42,18 @@ last_modified_at: 2026-04-04T21:00:00+08:00
 
 - **한국 방문**: 중부연회 및 눈 진료
 - **기간**: 4월 6일 ~ 23일
+
+---
+
+## 🧸 어린이부 달란트 시장 물품 협조 안내
+
+어린이날을 맞이하여 **달란트 시장**을 준비합니다.
+
+- **일시**: 5월 3일(주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B6%80%20%EB%8B%AC%EB%9E%80%ED%8A%B8%20%EC%8B%9C%EC%9E%A5&dates=20260503T110000/20260503T130000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B6%80%20%EB%8B%AC%EB%9E%80%ED%8A%B8%20%EC%8B%9C%EC%9E%A5&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **필요 물품**: 장난감, 간식, 책, 옷, 학용품 및 생활용품
+- **문의**: 정지영 선교사
+
+> 물품 협조를 부탁드립니다. 감사합니다!
 
 ---
 
