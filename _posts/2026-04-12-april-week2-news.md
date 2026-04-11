@@ -1,10 +1,10 @@
 ---
-title: "2026년 4월 5일(주일) 소식"
-date: 2026-04-05
+title: "2026년 4월 12일(주일) 소식"
+date: 2026-04-12
 category: "주보"
-tags: ["주보", "교회소식", "4월", "부활절", "부활주일"]
-summary: "부활주일 예배, 4월 모임 및 예배 안내, 기획위원회, 담임목사 한국 방문, 어린이부 달란트 시장 물품 협조"
-last_modified_at: 2026-04-04T21:00:00+08:00
+tags: ["주보", "교회소식", "4월"]
+summary: "설교 감사(최요한 선교사), 4월 모임 및 예배 안내, 어린이부 달란트 시장 물품 후원, 담임목사 한국 방문"
+last_modified_at: 2026-04-11T21:00:00+08:00
 ---
 
 ## 📣 인사말
@@ -15,26 +15,30 @@ last_modified_at: 2026-04-04T21:00:00+08:00
 
 ---
 
-## ✝️ 부활주일
+## 🙏 설교 감사
 
-예수님의 부활을 기뻐하며 새소망을 갖습니다.
+귀한 말씀 주신 **최요한 선교사님** 감사합니다.
 
 ---
 
 ## ⛪ 4월 모임 및 예배 안내
 
-- **4월 12일(주일) 설교**: 최요한 선교사
-- **4월 19일(주일) 설교**: 전부일 선교사(인니) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=4%EC%9B%94%2019%EC%9D%BC%20%EC%A3%BC%EC%9D%BC%EC%98%88%EB%B0%B0%20-%20%EC%A0%84%EB%B6%80%EA%B8%B8%20%EC%84%A0%EA%B5%90%EC%82%AC&dates=20260419T110000/20260419T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%A3%BC%EC%9D%BC%EC%98%88%EB%B0%B0%20-%20%EC%A0%84%EB%B6%80%EA%B8%B8%20%EC%84%A0%EA%B5%90%EC%82%AC(%EC%9D%B8%EB%8B%88)&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **4월 19일(주일) 설교**: 전부일 선교사(인니) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=4%EC%9B%94%2019%EC%9D%BC%20%EC%A3%BC%EC%9D%BC%EC%98%88%EB%B0%B0%20-%20%EC%A0%84%EB%B6%80%EC%9D%BC%20%EC%84%A0%EA%B5%90%EC%82%AC&dates=20260419T110000/20260419T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%A3%BC%EC%9D%BC%EC%98%88%EB%B0%B0%20-%20%EC%A0%84%EB%B6%80%EC%9D%BC%20%EC%84%A0%EA%B5%90%EC%82%AC(%EC%9D%B8%EB%8B%88)&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **아침묵상 모임 쉼**: 4월 6일 ~ 24일
 - **금요기도모임 쉼**: 4월 10일, 17일
 - **4월 온가족 금요기도회**: 4월 24일(금) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=4%EC%9B%94%20%EC%98%A8%EA%B0%80%EC%A1%B1%20%EA%B8%88%EC%9A%94%EA%B8%B0%EB%8F%84%ED%9A%8C&dates=20260424T200000/20260424T213000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%98%A8%EA%B0%80%EC%A1%B1%20%EA%B8%88%EC%9A%94%EA%B8%B0%EB%8F%84%ED%9A%8C&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ---
 
-## 📋 4월 기획위원회
+## 🧸 어린이부 달란트 시장 물품 후원
 
-- **일시**: 주일예배 후 오후 1시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=4%EC%9B%94%20%EA%B8%B0%ED%9A%8D%EC%9C%84%EC%9B%90%ED%9A%8C&dates=20260405T130000/20260405T150000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%204%EC%9B%94%20%EA%B8%B0%ED%9A%8D%EC%9C%84%EC%9B%90%ED%9A%8C&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
-- **장소**: 목양실
+어린이날을 맞이하여 **달란트 시장**을 준비합니다.
+
+- **일시**: 5월 3일(주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B6%80%20%EB%8B%AC%EB%9E%80%ED%8A%B8%20%EC%8B%9C%EC%9E%A5&dates=20260503T110000/20260503T130000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B6%80%20%EB%8B%AC%EB%9E%80%ED%8A%B8%20%EC%8B%9C%EC%9E%A5&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **필요 물품**: 사용하지 않는 물품들(학용품, 장난감, 책, 옷, 생활용품 등)
+- **문의**: 정지영 선교사
+
+> 물품 후원을 부탁드립니다. 감사합니다!
 
 ---
 
@@ -45,24 +49,12 @@ last_modified_at: 2026-04-04T21:00:00+08:00
 
 ---
 
-## 🧸 어린이부 달란트 시장 물품 협조 안내
-
-어린이날을 맞이하여 **달란트 시장**을 준비합니다.
-
-- **일시**: 5월 3일(주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B6%80%20%EB%8B%AC%EB%9E%80%ED%8A%B8%20%EC%8B%9C%EC%9E%A5&dates=20260503T110000/20260503T130000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B6%80%20%EB%8B%AC%EB%9E%80%ED%8A%B8%20%EC%8B%9C%EC%9E%A5&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
-- **필요 물품**: 장난감, 간식, 책, 옷, 학용품 및 생활용품
-- **문의**: 정지영 선교사
-
-> 물품 협조를 부탁드립니다. 감사합니다!
-
----
-
 ## 🙌 섬김 안내
 
 ### 식사 섬김
 
 - **식사 후원**: 심텍 임직원
-- **식사 준비**: 믿음속
+- **식사 준비**: 기쁨속
 
 **예배 후 식사 섬김 문의**:
 - 여선교회
