@@ -3,7 +3,7 @@ title: "2026년 4월 19일(주일) 소식"
 date: 2026-04-19
 category: "주보"
 tags: ["주보", "교회소식", "4월"]
-summary: "장애인 선교주일, 설교 감사(전부일 목사님), 4월 모임 및 예배 안내, 어린이부 달란트 시장 물품 후원, 담임목사 한국 방문"
+summary: "장애인 선교주일, 설교 감사(전부일 목사님), 4월 모임 및 예배 안내, 어린이부 달란트 시장 물품 후원, 담임목사 한국 방문, 페낭 순회영사(5/7~8)"
 last_modified_at: 2026-04-18T21:00:00+08:00
 ---
 
@@ -45,6 +45,18 @@ last_modified_at: 2026-04-18T21:00:00+08:00
 
 - **한국 방문**: 중부연회 및 눈 진료
 - **기간**: 4월 6일 ~ 23일
+
+---
+
+## 🏛️ 페낭 순회영사
+
+주 말레이시아 대한민국 대사관 **순회영사**가 본 교회에서 진행됩니다.
+
+- **일시**:
+  - 5월 7일(목) 14:30 ~ 18:00 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%8E%98%EB%82%AD%20%EC%88%9C%ED%9A%8C%EC%98%81%EC%82%AC%20(1%EC%9D%BC%EC%B0%A8)&dates=20260507T143000/20260507T180000&details=%EC%A3%BC%20%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%EC%82%AC%EA%B4%80%20%EC%88%9C%ED%9A%8C%EC%98%81%EC%82%AC&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+  - 5월 8일(금) 08:30 ~ 11:30 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%8E%98%EB%82%AD%20%EC%88%9C%ED%9A%8C%EC%98%81%EC%82%AC%20(2%EC%9D%BC%EC%B0%A8)&dates=20260508T083000/20260508T113000&details=%EC%A3%BC%20%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%EC%82%AC%EA%B4%80%20%EC%88%9C%ED%9A%8C%EC%98%81%EC%82%AC&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **장소**: 본 교회
+- **상세 안내**: [재외공관 공지 보기](https://mys.mofa.go.kr/my-ko/brd/m_1923/view.do?seq=1346955&page=1)
 
 ---
 
