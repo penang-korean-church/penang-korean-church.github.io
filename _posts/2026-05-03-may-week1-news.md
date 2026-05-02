@@ -4,7 +4,7 @@ date: 2026-05-03
 category: "주보"
 tags: ["주보", "교회소식", "5월", "어린이주일", "어버이주일"]
 summary: "어린이 주일, 어버이 주일, 5월 기획위원회, 새가족 모임, 학생부 MT, 페낭 순회영사 안내"
-last_modified_at: 2026-05-02T14:08:22+08:00
+last_modified_at: 2026-05-02T14:14:03+08:00
 ---
 
 ## 📣 인사말
@@ -56,7 +56,7 @@ last_modified_at: 2026-05-02T14:08:22+08:00
 
 ---
 
-## 🛂 페낭 순회영사
+## 🇰🇷 페낭 순회영사
 
 - **일시**:
   - 5월 7일(목) 14:30 ~ 18:00 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%8E%98%EB%82%AD%20%EC%88%9C%ED%9A%8C%EC%98%81%EC%82%AC&dates=20260507T143000/20260507T180000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%ED%8E%98%EB%82%AD%20%EC%88%9C%ED%9A%8C%EC%98%81%EC%82%AC&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
