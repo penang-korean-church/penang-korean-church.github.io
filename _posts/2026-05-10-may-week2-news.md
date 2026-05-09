@@ -43,29 +43,29 @@ last_modified_at: 2026-05-09T21:00:00+08:00
 
 ### 새가족 모임
 
-- **일시**: 5월 12일(화) 오전 10시
+- **일시**: 5월 12일(화) 오전 10시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&dates=20260512T100000/20260512T120000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ### 교사 모임
 
-- **일시**: 5월 12일(화) 오후 12시
+- **일시**: 5월 12일(화) 오후 12시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EA%B5%90%EC%82%AC%20%EB%AA%A8%EC%9E%84&dates=20260512T120000/20260512T140000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EA%B5%90%EC%82%AC%20%EB%AA%A8%EC%9E%84&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ### 연합 속회
 
-- **일시**: 5월 20일(수) 오전 10시
+- **일시**: 5월 20일(수) 오전 10시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%97%B0%ED%95%A9%20%EC%86%8D%ED%9A%8C&dates=20260520T100000/20260520T120000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%97%B0%ED%95%A9%20%EC%86%8D%ED%9A%8C&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ### 상반기 임원회
 
-- **일시**: 5월 24일(주일) 예배 후
+- **일시**: 5월 24일(주일) 예배 후 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%83%81%EB%B0%98%EA%B8%B0%20%EC%9E%84%EC%9B%90%ED%9A%8C&dates=20260524T123000/20260524T143000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EC%9E%84%EC%9B%90%ED%9A%8C%20%28%EC%A7%91%EC%82%AC%20%EC%9D%B4%EC%83%81%29&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **장소**: 교육관
 - **대상**: 집사 이상
 
 ### 5월 온가족 기도회
 
-- **일시**: 5월 29일(금) 오후 8시
+- **일시**: 5월 29일(금) 오후 8시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=5%EC%9B%94%20%EC%98%A8%EA%B0%80%EC%A1%B1%20%EA%B8%B0%EB%8F%84%ED%9A%8C&dates=20260529T200000/20260529T220000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%205%EC%9B%94%20%EC%98%A8%EA%B0%80%EC%A1%B1%20%EA%B8%B0%EB%8F%84%ED%9A%8C&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 
 ### 학생부 MT
 
-- **일시**: 5월 30일(토) 오후 2시~5시
+- **일시**: 5월 30일(토) 오후 2시~5시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%95%99%EC%83%9D%EB%B6%80%20MT&dates=20260530T140000/20260530T170000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%ED%95%99%EC%83%9D%EB%B6%80%20MT&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **장소**: 교회
 
 ---
@@ -85,7 +85,7 @@ last_modified_at: 2026-05-09T21:00:00+08:00
 
 ## ✈️ 성도 동정
 
-- **전성현**(청) 귀국
+- **전\*현**(청) 귀국
 
 ---
 
