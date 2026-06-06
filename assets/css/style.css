@@ -129,8 +129,8 @@ img {
 
 .site-logo-img {
   display: block;
-  width: 200px;
-  height: auto;
+  height: 38px;
+  width: auto;
   transition: opacity 0.2s ease;
 }
 
@@ -188,7 +188,7 @@ img {
   }
 
   .site-logo-img {
-    width: 160px;
+    height: 32px;
   }
 }
 
