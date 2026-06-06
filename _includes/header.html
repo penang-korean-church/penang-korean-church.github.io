@@ -1,7 +1,21 @@
 <header class="site-header">
   <div class="container header-inner">
     <div class="site-logo">
-      <a href="{{ '/' | relative_url }}">페낭한인교회</a>
+      <a href="{{ '/' | relative_url }}" aria-label="페낭한인교회">
+        <img src="{{ '/assets/images/logo-text-black.png' | relative_url }}"
+             alt="페낭한인교회"
+             class="site-logo-img site-logo-light"
+             width="800" height="198"
+             loading="eager"
+             decoding="async">
+        <img src="{{ '/assets/images/logo-text-white.png' | relative_url }}"
+             alt=""
+             class="site-logo-img site-logo-dark"
+             width="800" height="198"
+             loading="eager"
+             decoding="async"
+             aria-hidden="true">
+      </a>
     </div>
 
     <button class="menu-toggle" aria-label="메뉴 열기">

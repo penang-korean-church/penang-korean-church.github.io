@@ -123,14 +123,31 @@ img {
 }
 
 .site-logo a {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: var(--color-text-main);
-  letter-spacing: -0.02em;
+  display: inline-flex;
+  align-items: center;
 }
 
-.site-logo a:hover {
-  color: var(--color-primary);
+.site-logo-img {
+  display: block;
+  width: 200px;
+  height: auto;
+  transition: opacity 0.2s ease;
+}
+
+.site-logo a:hover .site-logo-img {
+  opacity: 0.75;
+}
+
+.site-logo-dark {
+  display: none;
+}
+
+[data-theme="dark"] .site-logo-light {
+  display: none;
+}
+
+[data-theme="dark"] .site-logo-dark {
+  display: block;
 }
 
 .site-nav {
@@ -168,6 +185,10 @@ img {
   .nav-link {
     font-size: 0.85rem;
     padding: 0.4rem 0.7rem;
+  }
+
+  .site-logo-img {
+    width: 160px;
   }
 }
 
