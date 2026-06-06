@@ -32,6 +32,12 @@ document.addEventListener('DOMContentLoaded', function() {
     link.addEventListener('click', closeMenu);
   });
 
+  // Close menu when toggling theme inside the mobile menu
+  const themeToggle = document.querySelector('.site-nav .theme-toggle');
+  if (themeToggle) {
+    themeToggle.addEventListener('click', closeMenu);
+  }
+
   // Close menu on escape key
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape' && siteNav.classList.contains('active')) {
