@@ -1,8 +1,21 @@
 <footer class="site-footer">
   <div class="container footer-inner">
     <div class="footer-info">
-      <h3 class="footer-title">{{ site.title }}</h3>
-      <p class="footer-tagline">Since {{ site.established }}</p>
+      <div class="footer-logo">
+        <img src="{{ '/assets/images/logo-text-color.png' | relative_url }}"
+             alt="{{ site.title }}"
+             class="footer-logo-img footer-logo-light"
+             width="800" height="198"
+             loading="lazy"
+             decoding="async">
+        <img src="{{ '/assets/images/logo-text-white.png' | relative_url }}"
+             alt=""
+             class="footer-logo-img footer-logo-dark"
+             width="800" height="198"
+             loading="lazy"
+             decoding="async"
+             aria-hidden="true">
+      </div>
       <p class="footer-address">
         <strong>주소:</strong> <span class="address-text">598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia</span>
         <a href="https://maps.app.goo.gl/r4pNWPJhSdtdAYDF8" target="_blank" rel="noopener noreferrer" class="map-link">지도열기</a><br>

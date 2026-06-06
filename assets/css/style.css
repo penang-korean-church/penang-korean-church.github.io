@@ -1096,11 +1096,34 @@ img {
   text-align: center;
 }
 
-.footer-title {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: var(--color-text-main);
-  margin-bottom: var(--space-sm);
+.footer-logo {
+  margin-bottom: var(--space-md);
+  display: flex;
+  justify-content: center;
+}
+
+.footer-logo-img {
+  display: block;
+  height: 60px;
+  width: auto;
+}
+
+.footer-logo-dark {
+  display: none;
+}
+
+[data-theme="dark"] .footer-logo-light {
+  display: none;
+}
+
+[data-theme="dark"] .footer-logo-dark {
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .footer-logo-img {
+    height: 48px;
+  }
 }
 
 .footer-address {
