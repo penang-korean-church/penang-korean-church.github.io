@@ -2,8 +2,8 @@
 title: "2026년 6월 14일(주일) 소식"
 date: 2026-06-14
 category: "주보"
-tags: ["주보", "교회소식", "6월", "환경선교주일", "새가족모임", "금요기도회", "심방", "성경공부", "방학", "담임목사동정"]
-summary: "환경 선교 주일, 방학 안내, 새가족 모임, 6월 온가족 금요 기도회, 심방 안내, 학생·청년부 성경공부, 방학 중 모임 안내, 담임목사 동정, 봉사자 모집"
+tags: ["주보", "교회소식", "6월", "환경선교주일", "에어컨청소", "새가족모임", "금요기도회", "심방", "성경공부", "방학", "담임목사동정"]
+summary: "환경 선교 주일, 방학 안내, 에어컨 청소, 새가족 모임, 6월 온가족 금요 기도회, 심방 안내, 학생·청년부 성경공부, 방학 중 모임 안내, 담임목사 동정, 봉사자 모집"
 last_modified_at: 2026-06-13T18:00:00+08:00
 ---
 
@@ -39,6 +39,11 @@ last_modified_at: 2026-06-13T18:00:00+08:00
 
 - **일시**: 6월 16일(화) 오전 10시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&dates=20260616T100000/20260616T120000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **장소**: 교회
+
+### 에어컨 청소
+
+- **일시**: 6월 20일(토) 오전 10시 30분 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EA%B5%90%ED%9A%8C%20%EC%97%90%EC%96%B4%EC%BB%A8%20%EC%B2%AD%EC%86%8C&dates=20260620T103000/20260620T130000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%97%90%EC%96%B4%EC%BB%A8%20%EC%B2%AD%EC%86%8C%20%28%EB%82%A8%EC%84%B1%EC%84%B1%EB%8F%84%20%EB%8F%84%EC%9B%80%20%ED%95%84%EC%9A%94%29&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **남성 성도님들의 도움이 필요합니다** 🙏
 
 ### 6월 온가족 금요 기도회
 
