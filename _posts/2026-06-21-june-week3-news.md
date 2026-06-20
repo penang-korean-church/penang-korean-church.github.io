@@ -48,7 +48,7 @@ last_modified_at: 2026-06-20T18:00:00+08:00
 ### 학생·청년부 신약 성경공부
 
 - **일시**: 토요일 오후 3시
-- **기간**: 6월 13일 ~ 7월 25일 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%95%99%EC%83%9D%C2%B7%EC%B2%AD%EB%85%84%EB%B6%80%20%EC%8B%A0%EC%95%BD%20%EC%84%B1%EA%B2%BD%EA%B3%B5%EB%B6%80&dates=20260613T150000/20260613T170000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%ED%95%99%EC%83%9D%C2%B7%EC%B2%AD%EB%85%84%EB%B6%80%20%EC%8B%A0%EC%95%BD%20%EC%84%B1%EA%B2%BD%EA%B3%B5%EB%B6%80%20%28%EB%A7%A4%EC%A3%BC%20%ED%86%A0%EC%9A%94%EC%9D%BC%2C%206%EC%9B%94%2013%EC%9D%BC~7%EC%9B%94%2025%EC%9D%BC%29&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **기간**: 6월 13일 ~ 7월 25일 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%95%99%EC%83%9D%C2%B7%EC%B2%AD%EB%85%84%EB%B6%80%20%EC%8B%A0%EC%95%BD%20%EC%84%B1%EA%B2%BD%EA%B3%B5%EB%B6%80&dates=20260613T150000/20260613T170000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%ED%95%99%EC%83%9D%C2%B7%EC%B2%AD%EB%85%84%EB%B6%80%20%EC%8B%A0%EC%95%BD%20%EC%84%B1%EA%B2%BD%EA%B3%B5%EB%B6%80%20%28%EB%A7%A4%EC%A3%BC%20%ED%86%A0%EC%9A%94%EC%9D%BC%2C%206%EC%9B%94%2013%EC%9D%BC~7%EC%9B%94%2025%EC%9D%BC%29&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur&recur=RRULE%3AFREQ%3DWEEKLY%3BBYDAY%3DSA%3BCOUNT%3D7)
 
 ---
 
@@ -73,7 +73,7 @@ last_modified_at: 2026-06-20T18:00:00+08:00
 
 ## 👤 담임목사 동정
 
-- **중부연회 선교사 대회**: 6월 22~25일(월~목), 말라카 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%A4%91%EB%B6%80%EC%97%B0%ED%9A%8C%20%EC%84%A0%EA%B5%90%EC%82%AC%20%EB%8C%80%ED%9A%8C&dates=20260622/20260626&details=%EC%A4%91%EB%B6%80%EC%97%B0%ED%9A%8C%20%EC%84%A0%EA%B5%90%EC%82%AC%20%EB%8C%80%ED%9A%8C%20%28%EB%A7%90%EB%9D%BC%EC%B9%B4%29&location=Malacca%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **중부연회 선교사 대회**: 6월 22~25일(월~목), 말라카
 - **협성신학대학원 역사탐방팀**: 6월 29일(화), KL
 
 ---
