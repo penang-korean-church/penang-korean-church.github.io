@@ -23,7 +23,7 @@ last_modified_at: 2026-06-27T21:00:00+08:00
 
 ## 🌾 맥추감사주일 및 성찬식
 
-- **일시**: 7월 5일(주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EB%A7%A5%EC%B6%94%EA%B0%90%EC%82%AC%EC%A3%BC%EC%9D%BC%20%EB%B0%8F%20%EC%84%B1%EC%B0%AC%EC%8B%9D&dates=20260705T110000/20260705T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EB%A7%A5%EC%B6%94%EA%B0%90%EC%82%AC%EC%A3%BC%EC%9D%BC%20%EB%B0%8F%20%EC%84%B1%EC%B0%AC%EC%8B%9D&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **일시**: 7월 5일(주일) 📅 <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EB%A7%A5%EC%B6%94%EA%B0%90%EC%82%AC%EC%A3%BC%EC%9D%BC%20%EB%B0%8F%20%EC%84%B1%EC%B0%AC%EC%8B%9D&dates=20260705T110000/20260705T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EB%A7%A5%EC%B6%94%EA%B0%90%EC%82%AC%EC%A3%BC%EC%9D%BC%20%EB%B0%8F%20%EC%84%B1%EC%B0%AC%EC%8B%9D&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur" target="_blank" rel="noopener">캘린더에 추가</a>
 
 상반기를 인도하신 하나님께 감사합시다.
 
@@ -43,7 +43,7 @@ last_modified_at: 2026-06-27T21:00:00+08:00
 
 ## 👨‍👩‍👧 새가족 모임
 
-- **일시**: 6월 30일(화) 오전 10시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&dates=20260630T100000/20260630T113000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **일시**: 6월 30일(화) 오전 10시 📅 <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&dates=20260630T100000/20260630T113000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur" target="_blank" rel="noopener">캘린더에 추가</a>
 
 ---
 
