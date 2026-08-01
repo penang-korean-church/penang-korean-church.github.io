@@ -4,7 +4,7 @@ date: 2026-09-12
 category: "행사"
 tags: ["어린이부", "여름성경학교", "성막학교", "하나님을 만나요", "교사모집", "후원"]
 summary: "페낭한인교회 어린이부 2026 여름성경학교 '하나님을 만나요' 안내 — 9월 12일(토)~13일(주일), 페낭한인교회"
-last_modified_at: 2026-08-01T20:55:17+08:00
+last_modified_at: 2026-08-01T20:57:51+08:00
 image: /assets/images/vbs-2026-poster.webp
 pinned_until: 2026-09-13
 ---
@@ -34,7 +34,7 @@ pinned_until: 2026-09-13
 | **주제** | 하나님을 만나요 (2026 성막학교) |
 | **문의** | 정지영 선교사 |
 
-<div class="page-hero-image poster poster-wide">
+<div class="page-hero-image poster">
   <img src="/assets/images/vbs-2026-poster.webp" alt="2026 여름성경학교 하나님을 만나요 포스터 - 9월 12일(토)~13일(주일), 페낭한인교회 어린이부">
 </div>
 
