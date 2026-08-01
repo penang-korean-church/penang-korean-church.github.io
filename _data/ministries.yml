@@ -36,5 +36,5 @@ departments:
 # 봉사 부서
 service_teams:
   - name: "찬양팀"
-    leader: "전세계로 간사"
+    leader: ""
     description: "예배 찬양 인도"
