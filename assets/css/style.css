@@ -581,6 +581,12 @@ img {
   width: 100%;
 }
 
+/* 본문(글·표)과 좌우 폭을 맞추는 포스터 */
+.page-hero-image.poster-wide {
+  width: 100%;
+  max-width: 100%;
+}
+
 /* Lead Text */
 .lead-text {
   font-size: 1.25rem;
