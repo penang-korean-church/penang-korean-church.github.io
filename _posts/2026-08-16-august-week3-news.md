@@ -15,7 +15,7 @@ last_modified_at: 2026-08-15T21:00:00+08:00
 
 ---
 
-## 📖 [2026년 여름성경학교](/2026/09/12/summer-bible-school-2026/)
+## 📖 [2026년 여름성경학교]({{ '/news/2026/09/12/summer-bible-school-2026/' | relative_url }})
 
 - **일시**: 9월 12~13일(토, 주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=2026%EB%85%84%20%EC%97%AC%EB%A6%84%EC%84%B1%EA%B2%BD%ED%95%99%EA%B5%90&dates=20260912/20260914&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%97%AC%EB%A6%84%EC%84%B1%EA%B2%BD%ED%95%99%EA%B5%90%20-%20%ED%95%98%EB%82%98%EB%8B%98%EC%9D%84%20%EB%A7%8C%EB%82%98%EC%9A%94!&ctz=Asia/Kuala_Lumpur)
 - **주제**: 하나님을 만나요!
