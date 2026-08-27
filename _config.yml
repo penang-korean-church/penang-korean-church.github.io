@@ -32,6 +32,7 @@ social:
 
 # Analytics
 google_analytics: "G-BFEVR64TEW"
+naver_analytics: "25ba765bcc6c280"
 
 # Build settings
 markdown: kramdown
