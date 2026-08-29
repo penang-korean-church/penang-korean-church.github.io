@@ -23,8 +23,8 @@ last_modified_at: 2026-08-29T21:00:00+08:00
 
 ## ⛪ 9월 성찬예배, 교역자보건주일
 
-- **일시**: 9월 6일(주일)
-- **보좌위원**: 김혜옥(권)
+- **일시**: 9월 6일(주일) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=9%EC%9B%94%20%EC%84%B1%EC%B0%AC%EC%98%88%EB%B0%B0%2C%20%EA%B5%90%EC%97%AD%EC%9E%90%EB%B3%B4%EA%B1%B4%EC%A3%BC%EC%9D%BC&dates=20260906T110000/20260906T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%209%EC%9B%94%20%EC%84%B1%EC%B0%AC%EC%98%88%EB%B0%B0%20%EB%B0%8F%20%EA%B5%90%EC%97%AD%EC%9E%90%EB%B3%B4%EA%B1%B4%EC%A3%BC%EC%9D%BC&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
+- **보좌위원**: 김\*옥(권)
 
 ---
 
@@ -34,7 +34,7 @@ last_modified_at: 2026-08-29T21:00:00+08:00
 - **주제**: 하나님을 만나요!
 - **교사 지원, 물품 및 재정 후원**: 게시판 참고
 - **재정 후원**: Bible 000으로 교회 계좌로 입금 바랍니다.
-- **문의**: 정지영 선교사
+- **문의**: 정\*영 선교사
 - **성경학교 기도회**: 매주일 오후 1시~1시 20분 (교육관), 금요기도회 오후 8시
 
 ---
@@ -60,15 +60,15 @@ last_modified_at: 2026-08-29T21:00:00+08:00
 
 ## 📗 6기 어성경이 읽어지네 (구약반)
 
-- **시작일**: 9월 17일부터, 12주간
+- **시작일**: 9월 17일부터, 12주간 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=6%EA%B8%B0%20%EC%96%B4%EC%84%B1%EA%B2%BD%EC%9D%B4%20%EC%9D%BD%EC%96%B4%EC%A7%80%EB%84%A4%20%EA%B5%AC%EC%95%BD%EB%B0%98%20%EC%8B%9C%EC%9E%91&dates=20260917T100000/20260917T113000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%206%EA%B8%B0%20%EC%96%B4%EC%84%B1%EA%B2%BD%EC%9D%B4%20%EC%9D%BD%EC%96%B4%EC%A7%80%EB%84%A4%20%EA%B5%AC%EC%95%BD%EB%B0%98%20(12%EC%A3%BC%EA%B0%84)&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **등록비**: RM100 (교재 및 간식비 포함)
-- **문의**: 한유림 사모
+- **문의**: 한\*림 사모
 
 ---
 
 ## 👨‍👩‍👧 새가족 모임
 
-- **일시**: 9월 2일(수) 오전 10시
+- **일시**: 9월 2일(수) 오전 10시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&dates=20260902T100000/20260902T113000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%83%88%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **장소**: 교회
 
 ---
@@ -94,7 +94,7 @@ last_modified_at: 2026-08-29T21:00:00+08:00
 
 ## 🤝 페낭선교사회
 
-- **일시**: 8월 31일(월)
+- **일시**: 8월 31일(월) 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%ED%8E%98%EB%82%AD%EC%84%A0%EA%B5%90%EC%82%AC%ED%9A%8C&dates=20260831T100000/20260831T120000&details=%ED%8E%98%EB%82%AD%EC%84%A0%EA%B5%90%EC%82%AC%ED%9A%8C&ctz=Asia/Kuala_Lumpur)
 
 ---
 
@@ -102,7 +102,7 @@ last_modified_at: 2026-08-29T21:00:00+08:00
 
 - **기간**: 9월 중
 - **대상**: 개인, 가정, 직장, 사업장
-- **문의**: 한유림 사모 (카카오톡 navinyou, 016-550-2423)
+- **문의**: 한\*림 사모 (카카오톡 navinyou, 016-550-2423)
 
 ---
 
