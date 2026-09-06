@@ -45,7 +45,7 @@ last_modified_at: 2026-09-05T21:00:00+08:00
 
 - **시작일**: 9월 17일부터, 12주간 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=6%EA%B8%B0%20%EC%96%B4%EC%84%B1%EA%B2%BD%EC%9D%B4%20%EC%9D%BD%EC%96%B4%EC%A7%80%EB%84%A4%20%EA%B5%AC%EC%95%BD%EB%B0%98%20%EC%8B%9C%EC%9E%91&dates=20260917T100000/20260917T113000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%206%EA%B8%B0%20%EC%96%B4%EC%84%B1%EA%B2%BD%EC%9D%B4%20%EC%9D%BD%EC%96%B4%EC%A7%80%EB%84%A4%20%EA%B5%AC%EC%95%BD%EB%B0%98%20(12%EC%A3%BC%EA%B0%84)&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
 - **등록비**: RM100 (교재 및 간식비 포함)
-- **문의**: 한*림 사모
+- **문의**: 한유림 사모
 
 ---
 
@@ -73,7 +73,7 @@ last_modified_at: 2026-09-05T21:00:00+08:00
 
 - **기간**: 9월 중
 - **대상**: 개인, 가정, 직장, 사업장
-- **문의**: 한*림 사모 (카카오톡 navinyou, 016-550-2423)
+- **문의**: 한유림 사모 (카카오톡 navinyou, 016-550-2423)
 
 ---
 
