@@ -4,7 +4,7 @@ date: 2026-09-20
 category: "주보"
 tags: ["주보", "교회소식", "9월", "기독교교육진흥주일", "농촌선교주일", "추석", "창립32주년", "찬양축제", "성경공부", "속회", "새가족", "심방"]
 summary: "기독교교육 진흥주일, 농촌선교주일, 추석, 주일예배 찬양 시간 안내, 교회창립 32주년 전교인 찬양 축제, 아침묵상모임 및 금요기도회, 어성경이 읽어지네, 남성성경공부, 속회 인도자 모임, 새가족 모임, 학생부 예배팀 세미나, 페낭 감리교 선교사 지역 모임, 목회자 동정, 심방"
-last_modified_at: 2026-09-19T14:49:52+08:00
+last_modified_at: 2026-09-19T14:52:43+08:00
 ---
 
 ## 📣 인사말
@@ -41,11 +41,7 @@ last_modified_at: 2026-09-19T14:49:52+08:00
 
 ---
 
-## 🎉 교회창립 32주년 전교인 찬양 축제
-
-<div class="page-hero-image poster">
-  <img src="/assets/images/praise-festival-2026-poster.webp" alt="교회 창립 32주년 전교인 찬양축제 포스터 - 온 맘다해 주 사랑하라! 2026년 10월 18일(주일) 오전 11시, 페낭한인교회 본당">
-</div>
+## 🎉 [교회창립 32주년 전교인 찬양 축제]({{ '/news/2026/10/18/praise-festival-2026/' | relative_url }})
 
 - **주제**: 온 맘다해 주 사랑하라!
 - **일시**: 10월 18일(주일) 오전 11시 📅 [캘린더에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EA%B5%90%ED%9A%8C%EC%B0%BD%EB%A6%BD%2032%EC%A3%BC%EB%85%84%20%EC%A0%84%EA%B5%90%EC%9D%B8%20%EC%B0%AC%EC%96%91%20%EC%B6%95%EC%A0%9C&dates=20261018T110000/20261018T123000&details=%ED%8E%98%EB%82%AD%ED%95%9C%EC%9D%B8%EA%B5%90%ED%9A%8C%20%EC%B0%BD%EB%A6%BD%2032%EC%A3%BC%EB%85%84%20%EC%A0%84%EA%B5%90%EC%9D%B8%20%EC%B0%AC%EC%96%91%20%EC%B6%95%EC%A0%9C&location=598-01-02%2C%20Menara%20Asas%2C%20Tanjung%20Bungah%2C%2011200%2C%20Penang%2C%20Malaysia&ctz=Asia/Kuala_Lumpur)
