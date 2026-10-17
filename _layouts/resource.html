@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% assign parts = page.path | split: '/' %}
+{% assign cat_slug = parts[1] %}
+{% assign cat = site.data.resource_categories | where: "slug", cat_slug | first %}
+
+<div class="container post-container">
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+
+      <div class="post-meta">
+        <span class="post-date">{{ page.date | date: "%Y년 %m월 %d일" }}</span>
+        {% if cat %}
+        <span class="post-category">{{ cat.name }}</span>
+        {% endif %}
+      </div>
+
+      {% if page.summary %}
+      <p class="post-summary">{{ page.summary }}</p>
+      {% endif %}
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    {% if page.tags %}
+    <footer class="post-footer">
+      <div class="post-tags">
+        {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </footer>
+    {% endif %}
+  </article>
+
+  <div class="post-navigation">
+    <a href="{{ '/resources/' | relative_url }}" class="btn btn-ghost">← 자료실로 돌아가기</a>
+  </div>
+</div>

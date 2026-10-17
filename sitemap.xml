@@ -32,4 +32,14 @@ layout: null
       <priority>0.6</priority>
     </url>
   {% endfor %}
+
+  <!-- Resources -->
+  {% for doc in site.resources %}
+    <url>
+      <loc>{{ site.url }}{{ site.baseurl }}{{ doc.url }}</loc>
+      <lastmod>{% if doc.last_modified_at %}{{ doc.last_modified_at | date_to_xmlschema }}{% else %}{{ doc.date | date_to_xmlschema }}{% endif %}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
 </urlset>

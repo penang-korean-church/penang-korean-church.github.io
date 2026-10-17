@@ -33,6 +33,21 @@
       "item": "{{ page.url | absolute_url }}"
     }
     {% endif %}
+    {% elsif page.url contains '/resources/' %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "자료실",
+      "item": "{{ site.url }}{{ site.baseurl }}/resources/"
+    }
+    {% if page.url != '/resources/' and page.title %}
+    ,{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title }}",
+      "item": "{{ page.url | absolute_url }}"
+    }
+    {% endif %}
     {% endif %}
   ]
 }

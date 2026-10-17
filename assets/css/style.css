@@ -446,6 +446,11 @@ img {
   color: var(--color-text-muted);
 }
 
+/* Resources listing: space between category sections */
+.resource-section + .resource-section {
+  margin-top: var(--space-xl);
+}
+
 /* ==========================================================================
    Cards
    ========================================================================== */

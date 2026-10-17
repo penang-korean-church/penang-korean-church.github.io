@@ -1,0 +1,52 @@
+---
+layout: default
+title: "자료실"
+description: "페낭한인교회 자료실 | 속회 모임 나눔지 등 교회 자료를 확인하세요"
+last_modified_at: 2026-10-17T21:00:00+08:00
+---
+
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-title">자료실</h1>
+    <p class="page-subtitle">속회 모임 나눔지 등 교회 자료를 확인하세요</p>
+  </header>
+
+  {% for cat in site.data.resource_categories %}
+  {% assign folder = '_resources/' | append: cat.slug | append: '/' %}
+  {% assign docs = site.resources | where_exp: "doc", "doc.path contains folder" | sort: "date" | reverse %}
+  <section class="resource-section" id="{{ cat.slug }}">
+    <header class="section-header">
+      <h2 class="section-title">{{ cat.name }}</h2>
+      {% if cat.description %}
+      <p class="section-subtitle">{{ cat.description }}</p>
+      {% endif %}
+    </header>
+
+    {% if docs.size > 0 %}
+    <div class="card-grid">
+      {% for doc in docs %}
+      <article class="card">
+        <div class="card-meta">
+          <span>{{ doc.date | date: "%Y년 %m월 %d일" }}</span>
+          <span class="card-category">{{ cat.name }}</span>
+        </div>
+        <h3 class="card-title">
+          <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+        </h3>
+        {% if doc.summary %}
+        <p class="card-summary">{{ doc.summary }}</p>
+        {% endif %}
+        <a href="{{ doc.url | relative_url }}" class="card-link">자세히 보기 →</a>
+      </article>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="text-center" style="padding: 3rem 0;">
+      <p style="color: var(--color-text-muted); font-size: 1.1rem;">
+        아직 등록된 자료가 없습니다.
+      </p>
+    </div>
+    {% endif %}
+  </section>
+  {% endfor %}
+</div>

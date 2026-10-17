@@ -1,0 +1,4 @@
+# 자료실 분류 — slug는 _resources/ 아래 폴더명과 같아야 합니다
+- slug: small-group
+  name: 소그룹 모임 자료
+  description: 속회 모임에서 함께 나누는 나눔지입니다

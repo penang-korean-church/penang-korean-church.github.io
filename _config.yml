@@ -39,6 +39,12 @@ markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
 future: true  # Show posts with future dates
 
+# Collections
+collections:
+  resources:
+    output: true
+    permalink: /resources/:path/
+
 # Defaults
 defaults:
   - scope:
@@ -50,6 +56,11 @@ defaults:
       path: "pages"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "resource"
 
 # Exclude from build
 exclude:
