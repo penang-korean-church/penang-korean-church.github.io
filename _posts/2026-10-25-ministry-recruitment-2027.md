@@ -2,9 +2,9 @@
 title: "2027년도 1인 1사역 모집 안내"
 date: 2026-10-25
 category: "공지"
-tags: ["사역", "모집", "봉사", "1인1사역", "every1"]
+tags: ["사역", "모집", "봉사", "1인1사역"]
 summary: "하나님은 모든 성도에게 그리스도의 몸을 세우도록 재능과 은사를 주셨습니다 — 2027년도 페낭한인교회 1인 1사역 모집"
-last_modified_at: 2026-10-24T16:03:51+08:00
+last_modified_at: 2026-10-24T16:08:12+08:00
 image: /assets/images/ministry-recruitment-2027-poster.webp
 pinned_until: 2026-11-30
 ---
@@ -13,18 +13,17 @@ pinned_until: 2026-11-30
 
 <div class="annual-theme" style="margin: 2rem 0;">
   <div class="annual-theme-content">
-    <h2 class="annual-theme-title">every1 Campaign</h2>
+    <h2 class="annual-theme-title">1인 1사역 모집</h2>
     <p class="annual-theme-verse">
       하나님은 모든 성도에게<br>
       그리스도의 몸을 세우도록<br>
       재능과 은사를 주셨습니다.
     </p>
-    <p class="annual-theme-reference">1인 1사역 모집</p>
   </div>
 </div>
 
 <div class="page-hero-image poster">
-  <img src="/assets/images/ministry-recruitment-2027-poster.webp" alt="2027년 페낭한인교회 1인 1사역 모집 포스터 - every1 Campaign, 하나님은 모든 성도에게 그리스도의 몸을 세우도록 재능과 은사를 주셨습니다">
+  <img src="/assets/images/ministry-recruitment-2027-poster.webp" alt="2027년 페낭한인교회 1인 1사역 모집 포스터 - 하나님은 모든 성도에게 그리스도의 몸을 세우도록 재능과 은사를 주셨습니다">
 </div>
 
 ---
@@ -91,11 +90,5 @@ pinned_until: 2026-11-30
 
 페낭한인교회는 모든 성도가 각자의 은사와 재능으로 그리스도의 몸을 세워가는 공동체입니다.
 여러분의 귀한 섬김을 기다립니다!
-
----
-
-## 🚗 주차 안내
-
-**유니클로 주차장**을 이용해 주시기 바랍니다.
 
 ---
