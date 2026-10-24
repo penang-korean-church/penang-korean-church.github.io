@@ -1463,7 +1463,7 @@ img {
 .section-dark {
   background:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('/assets/images/cta-bg.webp');
+    url('/assets/images/cta-bg-2026.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1691,7 +1691,7 @@ img {
   .section-dark {
     background-image:
       linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-      url('/assets/images/cta-bg-mobile.webp');
+      url('/assets/images/cta-bg-2026-mobile.webp');
   }
 
   .section-annual-theme {
