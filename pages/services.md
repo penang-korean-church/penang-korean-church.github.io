@@ -3,7 +3,7 @@ title: "예배 안내"
 subtitle: "페낭한인교회의 예배 시간을 안내합니다"
 description: "페낭한인교회 예배시간 안내 | 주일예배 오전 11시 (본당), 유치부·어린이부·학생부 예배, 금요 찬양기도회, 아침묵상. 페낭에서 함께 하나님을 예배하세요. Tanjung Bungah 위치"
 keywords: "페낭한인교회 예배시간, 주일예배, 금요기도회, 페낭 교회 예배, Tanjung Bungah 교회"
-last_modified_at: 2026-04-04T13:20:43+08:00
+last_modified_at: 2026-10-24T18:34:22+08:00
 ---
 
 ## 주일 예배
@@ -11,7 +11,10 @@ last_modified_at: 2026-04-04T13:20:43+08:00
 페낭한인교회는 매주 주일 하나님을 예배하는 기쁨과 은혜를 함께 나누기를 원합니다.
 
 <div class="page-hero-image">
-  <img src="/assets/images/cta-bg.jpg" alt="페낭한인교회 예배">
+  <picture>
+    <source srcset="/assets/images/cta-bg-2026-mobile.webp" media="(max-width: 768px)" type="image/webp">
+    <img src="/assets/images/cta-bg-2026.webp" alt="페낭한인교회 2026 전교인 단체사진" width="1919" height="1080">
+  </picture>
 </div>
 
 ### 주일 예배 시간
