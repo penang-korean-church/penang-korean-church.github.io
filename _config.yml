@@ -69,3 +69,5 @@ exclude:
   - node_modules
   - vendor
   - README.md
+  - docs
+  - gkc-home.png

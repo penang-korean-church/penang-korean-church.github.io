@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Jekyll version compatible with GitHub Pages
+# Built with Bundler in GitHub Actions (not the GitHub Pages default builder)
 gem "jekyll", "~> 4.3"
 
 # Required for Jekyll 3.0+

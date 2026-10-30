@@ -70,21 +70,11 @@
 
 ### 설치 및 실행
 
-1. **의존성 설치**:
+1. **Ruby 버전 확인**: `.ruby-version`에 지정된 Ruby를 사용합니다.
+
+2. **Bundler 설치**:
 ```bash
-gem install jekyll bundler
-```
-
-2. **Gemfile 생성** (프로젝트 루트에):
-```ruby
-source "https://rubygems.org"
-
-gem "jekyll", "~> 4.3"
-gem "webrick", "~> 1.8"
-
-group :jekyll_plugins do
-  gem "jekyll-feed"
-end
+gem install bundler -v 2.6.2
 ```
 
 3. **Gem 설치**:
@@ -111,6 +101,9 @@ url: "https://www.pkc1994.org"
 baseurl: ""
 ```
 
+`Gemfile.lock`을 커밋하여 로컬과 CI의 Jekyll 및 의존성 버전을 일치시킵니다.
+Linux 실행 환경을 지원하도록 의존성 변경 시 `bundle lock --add-platform x86_64-linux`도 실행합니다.
+
 ### 배포 단계
 
 1. **변경사항 커밋**:
@@ -122,8 +115,10 @@ git push origin main
 
 2. **GitHub Pages 활성화**:
    - GitHub 저장소 → Settings → Pages
-   - Source: `main` 브랜치 선택
-   - 1-2분 후 자동 배포
+   - Source: **GitHub Actions** 선택 (기존 브랜치 기반 빌드에서 전환)
+   - `.github/workflows/pages.yml`이 `main` 푸시 시 빌드·배포
+   - Pull Request에서는 빌드만 검증하며 배포하지 않음
+   - 최초 전환 후 필요하면 Actions → Build and deploy Jekyll → Run workflow 실행
 
 3. **사이트 접속**: https://www.pkc1994.org/
 
