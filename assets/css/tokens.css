@@ -1,0 +1,155 @@
+/* Design tokens for pkc1994, in two looks and two modes.
+   The default look is the site's own: blue signal, rounded cards, soft shadows, the system face.
+   `season: advent` in _config.yml puts data-season="advent" on <html> and switches to the Hedgerow look:
+   leaf-green paper (cream in light mode), one candle-gold accent, serif heads, square wells, pill controls.
+   Empty the setting after Christmas and the site returns to its default look; the accessibility fixes stay. */
+
+:root {
+  color-scheme: light dark;
+
+  /* scale shared by every look and mode */
+  --text-xs: 0.8125rem; --text-sm: 0.875rem; --text-md: 1rem; --text-lg: 1.25rem; --text-xl: 1.5625rem; --text-2xl: 1.953rem; --text-3xl: 2.441rem;
+  --text-display-s: clamp(2.25rem, 4vw + 0.5rem, 3.75rem); --text-display: clamp(2.75rem, 5vw + 1rem, 5.25rem);
+  --text-section: clamp(2rem, 2.5vw + 1rem, 3.5rem); --text-title: clamp(1.25rem, 0.75vw + 0.875rem, 1.625rem); --text-lead: clamp(1.125rem, 0.35vw + 1rem, 1.375rem);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1); --ease-in: cubic-bezier(0.7, 0, 0.84, 0); --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms; --dur-short: 220ms; --dur-long: 420ms;
+  --z-base: 1; --z-raised: 10; --z-dropdown: 100; --z-sticky: 200; --z-sticky-nav: 300; --z-modal: 400; --z-toast: 500; --z-tooltip: 600;
+  --rule-hair: 1px;
+  --radius-pill: 999px;
+
+  /* default look: type */
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  --font-display: var(--font-body);
+  --display-weight: 700;
+  --tracking-display: -0.01em;
+
+  /* default look: surfaces */
+  --radius-large: 16px; --radius-medium: 10px; --radius-small: 6px;
+  --radius-card: var(--radius-medium);
+  --radius-control: var(--radius-medium);
+  --radius-tag: var(--radius-small);
+  --shadow-soft: 0 8px 20px oklch(30% 0.03 255 / 0.06);
+  --shadow-medium: 0 4px 12px oklch(30% 0.03 255 / 0.1);
+  --card-rule: transparent;
+
+  /* default look, light: the site's grey-blue paper and blue signal, deepened a step so links and buttons clear 4.5:1 */
+  --color-paper: oklch(97.5% 0.006 255);
+  --color-paper-2: oklch(94.5% 0.008 255);
+  --color-paper-3: oklch(91.5% 0.01 255);
+  --color-surface: oklch(99.2% 0.003 255);
+  --color-surface-raised: var(--color-paper);
+  --color-ink: oklch(24% 0.006 255);
+  --color-ink-2: oklch(32% 0.006 255);
+  --color-muted: oklch(48% 0.008 255);
+  --color-rule: oklch(91% 0.006 255);
+  --color-accent: oklch(56% 0.165 250);
+  --color-accent-2: oklch(50% 0.165 250);
+  --color-accent-deep: oklch(42% 0.14 250);
+  --color-accent-ink: oklch(99% 0.003 255);
+  --color-focus: oklch(58% 0.19 250);
+  --color-error: oklch(48% 0.16 27); --color-success: oklch(46% 0.12 150);
+
+  /* over photographs: never changes with the mode */
+  --color-on-photo: oklch(99% 0.003 255);
+  --color-on-photo-2: oklch(92% 0.004 255);
+  --color-photo-accent: oklch(99% 0.003 255);
+  --color-photo-accent-ink: oklch(30% 0.07 260);
+  --scrim-photo: oklch(12% 0.01 255 / 0.4);
+  --scrim-hero: var(--scrim-photo);
+  --scrim-photo-deep: oklch(12% 0.01 255 / 0.6);
+  --scrim-menu: oklch(12% 0.01 255 / 0.5);
+  --shadow-on-photo: 0 2px 10px oklch(10% 0.01 255 / 0.3);
+
+  /* the names the stylesheet speaks */
+  --color-background: var(--color-paper);
+  --color-primary: var(--color-accent);
+  --color-primary-dark: var(--color-accent-2);
+  --color-primary-soft: color-mix(in oklab, var(--color-accent) 12%, var(--color-paper));
+  --color-text-main: var(--color-ink);
+  --color-text-muted: var(--color-muted);
+  --color-border: var(--color-rule);
+  --font-base: var(--font-body);
+}
+
+/* default look, dark */
+[data-theme="dark"] {
+  --color-paper: oklch(20% 0.005 255);
+  --color-paper-2: oklch(24% 0.005 255);
+  --color-paper-3: oklch(28% 0.005 255);
+  --color-surface: oklch(27% 0.005 255);
+  --color-surface-raised: oklch(31% 0.005 255);
+  --color-ink: oklch(92% 0.004 255);
+  --color-ink-2: oklch(84% 0.004 255);
+  --color-muted: oklch(72% 0.005 255);
+  --color-rule: oklch(36% 0.005 255);
+  --color-accent: oklch(76% 0.13 245);
+  --color-accent-2: oklch(82% 0.11 245);
+  --color-accent-deep: oklch(66% 0.14 245);
+  --color-accent-ink: oklch(20% 0.03 255);
+  --color-focus: oklch(78% 0.15 245);
+  --color-error: oklch(74% 0.14 27); --color-success: oklch(78% 0.12 150);
+  --color-primary-soft: color-mix(in oklab, var(--color-accent) 18%, var(--color-paper));
+  --shadow-soft: 0 8px 20px oklch(5% 0.005 255 / 0.3);
+  --shadow-medium: 0 4px 12px oklch(5% 0.005 255 / 0.4);
+}
+
+/* Advent look (Hedgerow), light: the theme's cream band turned into a page */
+[data-season="advent"] {
+  --font-display: "Prata", "Gowun Batang", "Apple SD Gothic Neo", Georgia, serif;
+  --font-body: "Manrope", "Noto Sans KR", "Apple SD Gothic Neo", ui-sans-serif, system-ui, sans-serif;
+  --display-weight: 400;
+  --tracking-display: -0.005em;
+  --radius-large: 0; --radius-medium: 0; --radius-small: 0;
+  --radius-card: 0;
+  --radius-control: var(--radius-pill);
+  --radius-tag: var(--radius-pill);
+  --shadow-soft: none;
+  --shadow-medium: none;
+  --card-rule: var(--color-rule);
+
+  --color-paper: oklch(95% 0.02 88);
+  --color-paper-2: oklch(92% 0.024 88);
+  --color-paper-3: oklch(88.5% 0.028 88);
+  --color-surface: var(--color-paper-2);
+  --color-surface-raised: var(--color-paper-3);
+  --color-ink: oklch(25% 0.05 158);
+  --color-ink-2: oklch(34% 0.045 158);
+  --color-muted: oklch(45% 0.04 158);
+  --color-rule: oklch(82% 0.035 95);
+  --color-accent: oklch(48.5% 0.115 72);
+  --color-accent-2: oklch(43% 0.115 72);
+  --color-accent-deep: oklch(38% 0.1 72);
+  --color-accent-ink: oklch(96% 0.02 88);
+  --color-focus: oklch(47% 0.17 72);
+
+  --color-on-photo: oklch(96% 0.02 88);
+  --color-on-photo-2: oklch(90% 0.022 88);
+  --color-photo-accent: oklch(84% 0.13 85);
+  --color-photo-accent-ink: oklch(22% 0.05 158);
+  --scrim-photo: oklch(20% 0.045 158 / 0.5);
+  --scrim-hero: oklch(22% 0.075 158 / 0.58);
+  --scrim-photo-deep: oklch(18% 0.045 158 / 0.62);
+  --scrim-menu: oklch(18% 0.045 158 / 0.55);
+  --shadow-on-photo: 0 1px 2px oklch(15% 0.04 158 / 0.4);
+}
+
+/* Advent look, dark: the theme's own leaf-green paper, elevation stepping lighter */
+[data-season="advent"][data-theme="dark"] {
+  --color-paper: oklch(24% 0.052 158);
+  --color-paper-2: oklch(27% 0.05 158);
+  --color-paper-3: oklch(30.5% 0.05 158);
+  --color-surface: var(--color-paper-2);
+  --color-surface-raised: var(--color-paper-3);
+  --color-ink: oklch(93% 0.022 88);
+  --color-ink-2: oklch(81% 0.035 150);
+  --color-muted: oklch(72% 0.04 150);
+  --color-rule: oklch(36% 0.05 158);
+  --color-accent: oklch(84% 0.13 85);
+  --color-accent-2: oklch(89% 0.11 88);
+  --color-accent-deep: oklch(70% 0.12 80);
+  --color-accent-ink: oklch(22% 0.05 158);
+  --color-focus: oklch(86% 0.16 85);
+  --color-primary-soft: color-mix(in oklab, var(--color-accent) 16%, var(--color-paper));
+  --shadow-soft: none;
+  --shadow-medium: none;
+}

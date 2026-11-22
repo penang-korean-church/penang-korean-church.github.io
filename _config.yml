@@ -38,6 +38,7 @@ naver_analytics: "25ba765bcc6c280"
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
 future: true  # Show posts with future dates
+season: advent  # 'advent'면 홈이 강림절·성탄 모습(녹색·금색·세리프)으로 바뀝니다. 성탄 뒤 빈 값("")으로 두면 평소 모습으로 돌아갑니다.
 
 # Collections
 collections:

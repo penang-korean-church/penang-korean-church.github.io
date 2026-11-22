@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function toggleMenu() {
     menuToggle.classList.toggle('active');
+    menuToggle.setAttribute('aria-expanded', menuToggle.classList.contains('active') ? 'true' : 'false');
     siteNav.classList.toggle('active');
     overlay.classList.toggle('active');
     body.style.overflow = siteNav.classList.contains('active') ? 'hidden' : '';
@@ -18,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function closeMenu() {
     menuToggle.classList.remove('active');
+    menuToggle.setAttribute('aria-expanded', 'false');
     siteNav.classList.remove('active');
     overlay.classList.remove('active');
     body.style.overflow = '';

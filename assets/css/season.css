@@ -1,0 +1,48 @@
+/* Advent and Christmas. Everything here is scoped to data-season="advent", which _config.yml's `season` setting puts on <html>.
+   Empty that setting after 12월 26일 and this file does nothing; the {% if %} in index.md hides the note the same way.
+   Still, as the theme asks: no snow, no drift. One hairline of gold at the top of the first screen, and one note under the service hour. */
+
+[data-season="advent"] .hero-fullscreen {
+  border-top: var(--rule-hair) solid var(--color-photo-accent);
+}
+
+[data-season="advent"] .season-note {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-xs);
+  margin-top: var(--space-md);
+  margin-bottom: var(--space-md);
+  padding-top: var(--space-sm);
+  border-top: 1.5px solid var(--color-accent);
+  max-width: 34ch;
+  color: var(--color-text-main);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+[data-season="advent"] .season-note-icon {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  margin-top: 0.3em;
+  color: var(--color-accent);
+}
+
+[data-season="advent"] .season-note-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  color: var(--color-text-main);
+  margin-bottom: var(--space-2xs);
+}
+
+[data-season="advent"] .season-note a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent);
+  text-underline-offset: 0.2em;
+}
+
+[data-season="advent"] .season-note a:hover {
+  color: var(--color-accent-2);
+}

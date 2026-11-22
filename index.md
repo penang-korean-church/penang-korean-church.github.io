@@ -3,7 +3,7 @@ layout: default
 title: "페낭한인교회"
 description: "말레이시아 페낭에서 함께 예배하는 한인 교회. 1994년 설립, 주일예배 오전 11시, 예배·교제·사역 안내"
 keywords: "페낭한인교회, Penang Korean Church, 말레이시아 한인교회, 페낭 교회, 한인 예배"
-last_modified_at: 2026-03-05T18:37:11+08:00
+last_modified_at: 2026-11-22T18:49:06+08:00
 ---
 
 <!-- Hero Section -->
@@ -16,7 +16,7 @@ last_modified_at: 2026-03-05T18:37:11+08:00
     <p class="hero-time">일요일 오전 11시 예배로 오세요</p>
     <div class="hero-actions">
       <a href="{{ '/pages/services/' | relative_url }}" class="btn btn-hero-primary">예배 안내</a>
-      <a href="https://forms.gle/ZXZWFYHBkx3wZgr88" target="_blank" rel="noopener noreferrer" class="btn btn-hero-outline" style="border: 2px solid #fff; color: #fff;">방문 예약하기</a>
+      <a href="https://forms.gle/ZXZWFYHBkx3wZgr88" target="_blank" rel="noopener noreferrer" class="btn btn-hero-outline">방문 예약하기</a>
     </div>
   </div>
 </section>
@@ -28,8 +28,19 @@ last_modified_at: 2026-03-05T18:37:11+08:00
       <div class="column-info-lifehouse">
         <h2 class="location-time">일요일 오전 11시</h2>
         <p class="location-address"><span class="address-text">598-01-02, Menara Asas, Tanjung Bungah, 11200, Penang, Malaysia</span></p>
+        {% assign today = site.time | date: "%Y-%m-%d" %}
+        {% if site.season == "advent" and today <= "2026-12-26" %}
+        <p class="season-note">
+          <svg class="season-note-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12 1.5l2.1 6.4h6.7l-5.4 4 2 6.5-5.4-4-5.4 4 2-6.5-5.4-4h6.7z"/></svg>
+          <span>
+            <span class="season-note-title">강림절, 11월 29일부터</span>
+            12월 6일(주일) 오전 11시 미리 크리스마스, 12월 25일(금) 성탄절 예배로 함께 모입니다.
+            <a href="{{ '/news/2026/11/22/november-week4-news/' | relative_url }}">일정 자세히</a>
+          </span>
+        </p>
+        {% endif %}
         <div class="location-buttons">
-          <a href="https://maps.google.com/?q=Menara+Asas,+Tanjung+Bungah,+Penang" target="_blank" class="btn btn-outline">📍 구글맵</a>
+          <a href="https://maps.google.com/?q=Menara+Asas,+Tanjung+Bungah,+Penang" target="_blank" rel="noopener noreferrer" class="btn btn-outline">구글맵에서 보기</a>
         </div>
       </div>
       <div class="column-map">
@@ -38,7 +49,7 @@ last_modified_at: 2026-03-05T18:37:11+08:00
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.543!2d100.2834!3d5.4601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac38f4b5c3d9d%3A0x5e8f9c0e5d5c5d5c!2sMenara%20Asas%2C%20Tanjung%20Bungah%2C%20Penang!5e0!3m2!1sen!2smy!4v1234567890!5m2!1sen!2smy"
           width="100%"
           height="350"
-          style="border:0; border-radius: 12px;"
+          style="border:0; display:block;"
           allowfullscreen=""
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade">
@@ -52,12 +63,12 @@ last_modified_at: 2026-03-05T18:37:11+08:00
 <section class="section-fullwidth section-annual-theme">
   <div class="container">
     <div class="annual-theme-home">
-      <p class="annual-theme-label">2026년 연간 주제 말씀</p>
       <h2 class="annual-theme-title">그와 함께 머물기</h2>
       <p class="annual-theme-verse">
-        "와서 보아라."<br>그들이 따라가서, 예수께서 묵고 계시는 곳을 보고, 그 날을 그와 함께 지냈다.
+        “와서 보아라.”<br>그들이 따라가서, 예수께서 묵고 계시는 곳을 보고, 그 날을 그와 함께 지냈다.
       </p>
       <p class="annual-theme-reference">요한복음 1:39</p>
+      <p class="annual-theme-label">2026년 연간 주제 말씀</p>
     </div>
   </div>
 </section>
@@ -87,19 +98,19 @@ last_modified_at: 2026-03-05T18:37:11+08:00
       {% for post in pinned_posts %}
         {% if shown < 3 %}
         <article class="card">
-          <div class="card-meta">
-            <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
-            {% if post.category %}
-            <span class="card-category">{{ post.category }}</span>
-            {% endif %}
-          </div>
           <h3 class="card-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h3>
+          <p class="card-meta">
+            <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y년 %m월 %d일" }}</time>
+            {% if post.category %}
+            <span class="card-category">{{ post.category }}</span>
+            {% endif %}
+          </p>
           {% if post.summary %}
           <p class="card-summary">{{ post.summary }}</p>
           {% endif %}
-          <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기 →</a>
+          <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기</a>
         </article>
         {% assign shown = shown | plus: 1 %}
         {% endif %}
@@ -107,19 +118,19 @@ last_modified_at: 2026-03-05T18:37:11+08:00
       {% for post in regular_posts %}
         {% if shown < 3 %}
         <article class="card">
-          <div class="card-meta">
-            <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
-            {% if post.category %}
-            <span class="card-category">{{ post.category }}</span>
-            {% endif %}
-          </div>
           <h3 class="card-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h3>
+          <p class="card-meta">
+            <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y년 %m월 %d일" }}</time>
+            {% if post.category %}
+            <span class="card-category">{{ post.category }}</span>
+            {% endif %}
+          </p>
           {% if post.summary %}
           <p class="card-summary">{{ post.summary }}</p>
           {% endif %}
-          <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기 →</a>
+          <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기</a>
         </article>
         {% assign shown = shown | plus: 1 %}
         {% endif %}

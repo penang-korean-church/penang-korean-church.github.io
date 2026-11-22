@@ -47,12 +47,11 @@
     const button = document.querySelector('.theme-toggle');
     if (!button) return;
 
+    // 아이콘은 CSS가 data-theme 값으로 바꾼다. 여기서는 라벨만.
     if (theme === 'dark') {
-      button.innerHTML = '☀️';
       button.setAttribute('aria-label', '라이트 모드로 전환');
       button.setAttribute('title', '라이트 모드로 전환');
     } else {
-      button.innerHTML = '🌙';
       button.setAttribute('aria-label', '다크 모드로 전환');
       button.setAttribute('title', '다크 모드로 전환');
     }
@@ -89,4 +88,26 @@
   } else {
     init();
   }
+})();
+
+/**
+ * iframe 포커스 표시
+ * 크로스오리진 iframe(지도, 영상)에 키보드 포커스가 들어가면 부모 창은 blur 되고
+ * :focus 가 iframe 요소에 매치되지 않는 브라우저가 있어, 클래스로 포커스 링을 그린다.
+ */
+(function() {
+  'use strict';
+  function mark() {
+    var el = document.activeElement;
+    if (el && el.tagName === 'IFRAME') el.classList.add('is-focused');
+  }
+  function clear() {
+    document.querySelectorAll('iframe.is-focused').forEach(function(f) { f.classList.remove('is-focused'); });
+  }
+  window.addEventListener('blur', function() { setTimeout(mark, 0); });
+  window.addEventListener('focus', clear);
+  document.addEventListener('focusin', function(e) {
+    clear();
+    if (e.target && e.target.tagName === 'IFRAME') e.target.classList.add('is-focused');
+  });
 })();

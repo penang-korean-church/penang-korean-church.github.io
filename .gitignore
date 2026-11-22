@@ -27,3 +27,7 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Hallmark design-skill working files (screenshots, lint records, deal log)
+.hallmark/
+.playwright-mcp/

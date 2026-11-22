@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "소식 & 공지"
-last_modified_at: 2026-03-01T09:37:06+08:00
+last_modified_at: 2026-11-22T18:49:06+08:00
 ---
 
 <div class="container">
@@ -14,19 +14,19 @@ last_modified_at: 2026-03-01T09:37:06+08:00
   <div class="card-grid">
     {% for post in site.posts %}
     <article class="card">
-      <div class="card-meta">
-        <span>{{ post.date | date: "%Y년 %m월 %d일" }}</span>
-        {% if post.category %}
-        <span class="card-category">{{ post.category }}</span>
-        {% endif %}
-      </div>
       <h3 class="card-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h3>
+      <p class="card-meta">
+        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y년 %m월 %d일" }}</time>
+        {% if post.category %}
+        <span class="card-category">{{ post.category }}</span>
+        {% endif %}
+      </p>
       {% if post.summary %}
       <p class="card-summary">{{ post.summary }}</p>
       {% endif %}
-      <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기 →</a>
+      <a href="{{ post.url | relative_url }}" class="card-link">자세히 보기</a>
     </article>
     {% endfor %}
   </div>
