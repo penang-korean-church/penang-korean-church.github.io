@@ -3,7 +3,7 @@ layout: default
 title: "페낭한인교회"
 description: "말레이시아 페낭에서 함께 예배하는 한인 교회. 1994년 설립, 주일예배 오전 11시, 예배·교제·사역 안내"
 keywords: "페낭한인교회, Penang Korean Church, 말레이시아 한인교회, 페낭 교회, 한인 예배"
-last_modified_at: 2026-11-22T18:49:06+08:00
+last_modified_at: 2026-11-28T21:11:57+08:00
 ---
 
 <!-- Hero Section -->
@@ -35,7 +35,7 @@ last_modified_at: 2026-11-22T18:49:06+08:00
           <span>
             <span class="season-note-title">강림절, 11월 29일부터</span>
             12월 6일(주일) 오전 11시 미리 크리스마스, 12월 25일(금) 성탄절 예배로 함께 모입니다.
-            <a href="{{ '/news/2026/11/22/november-week4-news/' | relative_url }}">일정 자세히</a>
+            <a href="{{ '/news/2026/11/29/november-week5-news/' | relative_url }}">강림절 안내</a>
           </span>
         </p>
         {% endif %}
